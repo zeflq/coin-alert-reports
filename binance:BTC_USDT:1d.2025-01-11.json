@@ -1,0 +1,45 @@
+{
+  "symbol": "binance:BTC/USDT:1d",
+  "summary": {
+    "totalTrades": 17,
+    "netProfit": {
+      "amount": "1279.25",
+      "percentage": "127.93"
+    },
+    "lossRate": "17.65",
+    "winRate": "82.35",
+    "profitFactor": "5.81",
+    "maxDrawdown": {
+      "amount": "265.80",
+      "percentage": "26.58"
+    },
+    "averageGainPerTrade": "75.25",
+    "currentCapital": "2279.25"
+  },
+  "losingTrades": [
+    {
+      "tradeNumber": 1,
+      "entryPrice": 8493.14,
+      "entryTime": "2019-09-24T00:00:00.000Z",
+      "exitPrice": 9230,
+      "exitTime": "2019-10-26T00:00:00.000Z",
+      "loss": "30.79"
+    },
+    {
+      "tradeNumber": 2,
+      "entryPrice": 7268.23,
+      "entryTime": "2019-11-22T00:00:00.000Z",
+      "exitPrice": 8145.28,
+      "exitTime": "2020-01-07T00:00:00.000Z",
+      "loss": "41.89"
+    },
+    {
+      "tradeNumber": 3,
+      "entryPrice": 5578.6,
+      "entryTime": "2020-03-13T00:00:00.000Z",
+      "exitPrice": 8778.57,
+      "exitTime": "2020-04-29T00:00:00.000Z",
+      "loss": "193.13"
+    }
+  ]
+}

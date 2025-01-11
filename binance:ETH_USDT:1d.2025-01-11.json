@@ -1,0 +1,77 @@
+{
+  "symbol": "binance:ETH/USDT:1d",
+  "summary": {
+    "totalTrades": 27,
+    "netProfit": {
+      "amount": "2211.92",
+      "percentage": "221.19"
+    },
+    "lossRate": "25.93",
+    "winRate": "74.07",
+    "profitFactor": "5.08",
+    "maxDrawdown": {
+      "amount": "244.05",
+      "percentage": "24.41"
+    },
+    "averageGainPerTrade": "81.92",
+    "currentCapital": "3211.92"
+  },
+  "losingTrades": [
+    {
+      "tradeNumber": 1,
+      "entryPrice": 149.56,
+      "entryTime": "2019-11-22T00:00:00.000Z",
+      "exitPrice": 165.64,
+      "exitTime": "2020-01-14T00:00:00.000Z",
+      "loss": "36.68"
+    },
+    {
+      "tradeNumber": 2,
+      "entryPrice": 1879.28,
+      "entryTime": "2021-06-22T00:00:00.000Z",
+      "exitPrice": 2228.08,
+      "exitTime": "2021-07-26T00:00:00.000Z",
+      "loss": "129.07"
+    },
+    {
+      "tradeNumber": 3,
+      "entryPrice": 3168.51,
+      "entryTime": "2022-04-06T00:00:00.000Z",
+      "exitPrice": 2979.74,
+      "exitTime": "2022-04-11T00:00:00.000Z",
+      "loss": "39.91"
+    },
+    {
+      "tradeNumber": 4,
+      "entryPrice": 1650.95,
+      "entryTime": "2023-06-14T00:00:00.000Z",
+      "exitPrice": 1729.42,
+      "exitTime": "2023-08-29T00:00:00.000Z",
+      "loss": "36.70"
+    },
+    {
+      "tradeNumber": 5,
+      "entryPrice": 1645.76,
+      "entryTime": "2023-08-31T00:00:00.000Z",
+      "exitPrice": 1765.46,
+      "exitTime": "2023-10-23T00:00:00.000Z",
+      "loss": "55.50"
+    },
+    {
+      "tradeNumber": 6,
+      "entryPrice": 2972.46,
+      "entryTime": "2024-05-01T00:00:00.000Z",
+      "exitPrice": 3661.78,
+      "exitTime": "2024-05-20T00:00:00.000Z",
+      "loss": "191.21"
+    },
+    {
+      "tradeNumber": 7,
+      "entryPrice": 3737.73,
+      "entryTime": "2024-05-22T00:00:00.000Z",
+      "exitPrice": 3483.42,
+      "exitTime": "2024-06-18T00:00:00.000Z",
+      "loss": "52.85"
+    }
+  ]
+}
