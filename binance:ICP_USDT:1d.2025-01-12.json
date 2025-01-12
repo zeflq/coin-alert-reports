@@ -1,0 +1,53 @@
+{
+  "symbol": "binance:ICP/USDT:1d",
+  "summary": {
+    "totalTrades": 11,
+    "netProfit": {
+      "amount": "1188.69",
+      "percentage": "118.87"
+    },
+    "lossRate": "36.36",
+    "winRate": "63.64",
+    "profitFactor": "5.58",
+    "maxDrawdown": {
+      "amount": "201.94",
+      "percentage": "20.19"
+    },
+    "averageGainPerTrade": "108.06",
+    "currentCapital": "2188.69"
+  },
+  "losingTrades": [
+    {
+      "tradeNumber": 1,
+      "entryPrice": 3.935,
+      "entryTime": "2022-11-14T00:00:00.000Z",
+      "exitPrice": 4.013,
+      "exitTime": "2023-01-02T00:00:00.000Z",
+      "loss": "6.12"
+    },
+    {
+      "tradeNumber": 2,
+      "entryPrice": 7.348,
+      "entryTime": "2023-02-19T00:00:00.000Z",
+      "exitPrice": 6.244,
+      "exitTime": "2023-04-17T00:00:00.000Z",
+      "loss": "51.33"
+    },
+    {
+      "tradeNumber": 3,
+      "entryPrice": 7.281,
+      "entryTime": "2024-08-12T00:00:00.000Z",
+      "exitPrice": 8.93,
+      "exitTime": "2024-09-10T00:00:00.000Z",
+      "loss": "135.36"
+    },
+    {
+      "tradeNumber": 4,
+      "entryPrice": 7.706,
+      "entryTime": "2024-10-25T00:00:00.000Z",
+      "exitPrice": 8.616,
+      "exitTime": "2024-11-08T00:00:00.000Z",
+      "loss": "66.58"
+    }
+  ]
+}

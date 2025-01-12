@@ -1,0 +1,101 @@
+{
+  "symbol": "binance:DOGE/USDT:1d",
+  "summary": {
+    "totalTrades": 23,
+    "netProfit": {
+      "amount": "4065.77",
+      "percentage": "406.58"
+    },
+    "lossRate": "43.48",
+    "winRate": "56.52",
+    "profitFactor": "4.28",
+    "maxDrawdown": {
+      "amount": "444.33",
+      "percentage": "44.43"
+    },
+    "averageGainPerTrade": "176.77",
+    "currentCapital": "5065.77"
+  },
+  "losingTrades": [
+    {
+      "tradeNumber": 1,
+      "entryPrice": 0.001746,
+      "entryTime": "2020-03-13T00:00:00.000Z",
+      "exitPrice": 0.0024076,
+      "exitTime": "2020-04-26T00:00:00.000Z",
+      "loss": "94.73"
+    },
+    {
+      "tradeNumber": 2,
+      "entryPrice": 0.0047657,
+      "entryTime": "2020-07-08T00:00:00.000Z",
+      "exitPrice": 0.0038041,
+      "exitTime": "2020-07-11T00:00:00.000Z",
+      "loss": "45.70"
+    },
+    {
+      "tradeNumber": 3,
+      "entryPrice": 0.0787,
+      "entryTime": "2021-02-08T00:00:00.000Z",
+      "exitPrice": 0.0629738,
+      "exitTime": "2021-03-08T00:00:00.000Z",
+      "loss": "99.42"
+    },
+    {
+      "tradeNumber": 4,
+      "entryPrice": 0.19072,
+      "entryTime": "2021-06-22T00:00:00.000Z",
+      "exitPrice": 0.26189,
+      "exitTime": "2021-08-07T00:00:00.000Z",
+      "loss": "383.48"
+    },
+    {
+      "tradeNumber": 5,
+      "entryPrice": 0.2882,
+      "entryTime": "2021-10-29T00:00:00.000Z",
+      "exitPrice": 0.2819,
+      "exitTime": "2021-11-08T00:00:00.000Z",
+      "loss": "20.37"
+    },
+    {
+      "tradeNumber": 6,
+      "entryPrice": 0.06115,
+      "entryTime": "2022-09-14T00:00:00.000Z",
+      "exitPrice": 0.0631,
+      "exitTime": "2022-09-24T00:00:00.000Z",
+      "loss": "33.06"
+    },
+    {
+      "tradeNumber": 7,
+      "entryPrice": 0.08387,
+      "entryTime": "2022-10-28T00:00:00.000Z",
+      "exitPrice": 0.0745,
+      "exitTime": "2022-11-09T00:00:00.000Z",
+      "loss": "114.89"
+    },
+    {
+      "tradeNumber": 8,
+      "entryPrice": 0.07483,
+      "entryTime": "2022-12-20T00:00:00.000Z",
+      "exitPrice": 0.08729,
+      "exitTime": "2023-01-14T00:00:00.000Z",
+      "loss": "166.45"
+    },
+    {
+      "tradeNumber": 9,
+      "entryPrice": 0.09512,
+      "entryTime": "2023-04-04T00:00:00.000Z",
+      "exitPrice": 0.08222,
+      "exitTime": "2023-04-07T00:00:00.000Z",
+      "loss": "129.93"
+    },
+    {
+      "tradeNumber": 10,
+      "entryPrice": 0.12351,
+      "entryTime": "2024-09-27T00:00:00.000Z",
+      "exitPrice": 0.10462,
+      "exitTime": "2024-10-02T00:00:00.000Z",
+      "loss": "152.24"
+    }
+  ]
+}

@@ -1,0 +1,205 @@
+{
+  "symbol": "gateio:WOO/USDT:4h",
+  "summary": {
+    "totalTrades": 45,
+    "netProfit": {
+      "amount": "230.04",
+      "percentage": "23.00"
+    },
+    "lossRate": "51.11",
+    "winRate": "48.89",
+    "profitFactor": "1.55",
+    "maxDrawdown": {
+      "amount": "81.90",
+      "percentage": "8.19"
+    },
+    "averageGainPerTrade": "5.11",
+    "currentCapital": "1230.04"
+  },
+  "losingTrades": [
+    {
+      "tradeNumber": 1,
+      "entryPrice": 0.61488,
+      "entryTime": "2021-08-24T20:00:00.000Z",
+      "exitPrice": 0.67179,
+      "exitTime": "2021-08-27T20:00:00.000Z",
+      "loss": "23.14"
+    },
+    {
+      "tradeNumber": 2,
+      "entryPrice": 1.3317,
+      "entryTime": "2021-11-03T20:00:00.000Z",
+      "exitPrice": 1.2628,
+      "exitTime": "2021-11-05T08:00:00.000Z",
+      "loss": "12.64"
+    },
+    {
+      "tradeNumber": 3,
+      "entryPrice": 1.12209,
+      "entryTime": "2022-01-04T12:00:00.000Z",
+      "exitPrice": 1.02057,
+      "exitTime": "2022-01-06T00:00:00.000Z",
+      "loss": "23.07"
+    },
+    {
+      "tradeNumber": 4,
+      "entryPrice": 0.80275,
+      "entryTime": "2022-02-08T04:00:00.000Z",
+      "exitPrice": 0.69166,
+      "exitTime": "2022-02-08T16:00:00.000Z",
+      "loss": "34.48"
+    },
+    {
+      "tradeNumber": 5,
+      "entryPrice": 0.34902,
+      "entryTime": "2022-04-30T20:00:00.000Z",
+      "exitPrice": 0.36029,
+      "exitTime": "2022-05-04T04:00:00.000Z",
+      "loss": "7.78"
+    },
+    {
+      "tradeNumber": 6,
+      "entryPrice": 0.17161,
+      "entryTime": "2022-07-26T00:00:00.000Z",
+      "exitPrice": 0.17547,
+      "exitTime": "2022-07-27T04:00:00.000Z",
+      "loss": "5.65"
+    },
+    {
+      "tradeNumber": 7,
+      "entryPrice": 0.24895,
+      "entryTime": "2022-07-30T12:00:00.000Z",
+      "exitPrice": 0.20777,
+      "exitTime": "2022-08-02T12:00:00.000Z",
+      "loss": "41.33"
+    },
+    {
+      "tradeNumber": 8,
+      "entryPrice": 0.26213,
+      "entryTime": "2022-08-06T16:00:00.000Z",
+      "exitPrice": 0.24,
+      "exitTime": "2022-08-09T08:00:00.000Z",
+      "loss": "20.22"
+    },
+    {
+      "tradeNumber": 9,
+      "entryPrice": 0.17887,
+      "entryTime": "2023-01-30T12:00:00.000Z",
+      "exitPrice": 0.18195,
+      "exitTime": "2023-02-01T16:00:00.000Z",
+      "loss": "4.65"
+    },
+    {
+      "tradeNumber": 10,
+      "entryPrice": 0.22118,
+      "entryTime": "2023-03-14T16:00:00.000Z",
+      "exitPrice": 0.2011,
+      "exitTime": "2023-03-15T12:00:00.000Z",
+      "loss": "25.34"
+    },
+    {
+      "tradeNumber": 11,
+      "entryPrice": 0.21773,
+      "entryTime": "2023-07-10T00:00:00.000Z",
+      "exitPrice": 0.22774,
+      "exitTime": "2023-07-10T16:00:00.000Z",
+      "loss": "13.62"
+    },
+    {
+      "tradeNumber": 12,
+      "entryPrice": 0.15853,
+      "entryTime": "2023-08-29T04:00:00.000Z",
+      "exitPrice": 0.17568,
+      "exitTime": "2023-08-29T12:00:00.000Z",
+      "loss": "32.39"
+    },
+    {
+      "tradeNumber": 13,
+      "entryPrice": 0.1619,
+      "entryTime": "2023-09-03T16:00:00.000Z",
+      "exitPrice": 0.16524,
+      "exitTime": "2023-09-04T00:00:00.000Z",
+      "loss": "6.01"
+    },
+    {
+      "tradeNumber": 14,
+      "entryPrice": 0.15782,
+      "entryTime": "2023-09-10T04:00:00.000Z",
+      "exitPrice": 0.1583,
+      "exitTime": "2023-09-12T00:00:00.000Z",
+      "loss": "0.88"
+    },
+    {
+      "tradeNumber": 15,
+      "entryPrice": 0.18077,
+      "entryTime": "2023-10-01T12:00:00.000Z",
+      "exitPrice": 0.17028,
+      "exitTime": "2023-10-03T12:00:00.000Z",
+      "loss": "16.80"
+    },
+    {
+      "tradeNumber": 16,
+      "entryPrice": 0.24437,
+      "entryTime": "2023-11-06T12:00:00.000Z",
+      "exitPrice": 0.23591,
+      "exitTime": "2023-11-09T16:00:00.000Z",
+      "loss": "10.05"
+    },
+    {
+      "tradeNumber": 17,
+      "entryPrice": 0.2171,
+      "entryTime": "2023-11-23T12:00:00.000Z",
+      "exitPrice": 0.226,
+      "exitTime": "2023-11-25T00:00:00.000Z",
+      "loss": "11.80"
+    },
+    {
+      "tradeNumber": 18,
+      "entryPrice": 0.527,
+      "entryTime": "2024-02-24T16:00:00.000Z",
+      "exitPrice": 0.5004,
+      "exitTime": "2024-02-28T16:00:00.000Z",
+      "loss": "15.25"
+    },
+    {
+      "tradeNumber": 19,
+      "entryPrice": 0.628,
+      "entryTime": "2024-03-03T16:00:00.000Z",
+      "exitPrice": 0.5598,
+      "exitTime": "2024-03-05T12:00:00.000Z",
+      "loss": "32.41"
+    },
+    {
+      "tradeNumber": 20,
+      "entryPrice": 0.2748,
+      "entryTime": "2024-04-30T12:00:00.000Z",
+      "exitPrice": 0.2881,
+      "exitTime": "2024-04-30T20:00:00.000Z",
+      "loss": "14.39"
+    },
+    {
+      "tradeNumber": 21,
+      "entryPrice": 0.2713,
+      "entryTime": "2024-05-01T08:00:00.000Z",
+      "exitPrice": 0.2939,
+      "exitTime": "2024-05-03T12:00:00.000Z",
+      "loss": "24.47"
+    },
+    {
+      "tradeNumber": 22,
+      "entryPrice": 0.2028,
+      "entryTime": "2024-06-24T08:00:00.000Z",
+      "exitPrice": 0.2131,
+      "exitTime": "2024-06-24T20:00:00.000Z",
+      "loss": "15.34"
+    },
+    {
+      "tradeNumber": 23,
+      "entryPrice": 0.17,
+      "entryTime": "2024-07-08T00:00:00.000Z",
+      "exitPrice": 0.1855,
+      "exitTime": "2024-07-08T08:00:00.000Z",
+      "loss": "27.21"
+    }
+  ]
+}

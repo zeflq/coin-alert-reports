@@ -1,0 +1,119 @@
+{
+  "symbol": "gateio:FET/USDT:4h",
+  "summary": {
+    "totalTrades": 12,
+    "netProfit": {
+      "amount": "1526.84",
+      "percentage": "152.68"
+    },
+    "lossRate": "50.00",
+    "winRate": "50.00",
+    "profitFactor": "9.24",
+    "maxDrawdown": {
+      "amount": "125.87",
+      "percentage": "12.59"
+    },
+    "averageGainPerTrade": "127.24",
+    "currentCapital": "2526.84"
+  },
+  "winningTrades": [
+    {
+      "tradeNumber": 1,
+      "entryPrice": 0.07681,
+      "entryTime": "2022-12-06T04:00:00.000Z",
+      "exitPrice": 0.10682,
+      "exitTime": "2022-12-14T08:00:00.000Z",
+      "gain": "95.84"
+    },
+    {
+      "tradeNumber": 2,
+      "entryPrice": 0.11523,
+      "entryTime": "2023-01-04T12:00:00.000Z",
+      "exitPrice": 0.27155,
+      "exitTime": "2023-01-26T00:00:00.000Z",
+      "gain": "365.27"
+    },
+    {
+      "tradeNumber": 3,
+      "entryPrice": 0.31441,
+      "entryTime": "2023-02-03T16:00:00.000Z",
+      "exitPrice": 0.43643,
+      "exitTime": "2023-02-14T08:00:00.000Z",
+      "gain": "139.94"
+    },
+    {
+      "tradeNumber": 4,
+      "entryPrice": 0.18572,
+      "entryTime": "2023-06-10T04:00:00.000Z",
+      "exitPrice": 0.17979,
+      "exitTime": "2023-06-14T20:00:00.000Z",
+      "gain": "11.79"
+    },
+    {
+      "tradeNumber": 5,
+      "entryPrice": 0.752,
+      "entryTime": "2024-02-17T16:00:00.000Z",
+      "exitPrice": 2.622,
+      "exitTime": "2024-03-07T00:00:00.000Z",
+      "gain": "905.39"
+    },
+    {
+      "tradeNumber": 6,
+      "entryPrice": 0.983,
+      "entryTime": "2024-08-22T12:00:00.000Z",
+      "exitPrice": 1.31,
+      "exitTime": "2024-08-28T08:00:00.000Z",
+      "gain": "194.01"
+    }
+  ],
+  "losingTrades": [
+    {
+      "tradeNumber": 1,
+      "entryPrice": 0.3867,
+      "entryTime": "2022-03-02T00:00:00.000Z",
+      "exitPrice": 0.3576,
+      "exitTime": "2022-03-04T04:00:00.000Z",
+      "loss": "18.81"
+    },
+    {
+      "tradeNumber": 2,
+      "entryPrice": 0.46518,
+      "entryTime": "2023-03-14T16:00:00.000Z",
+      "exitPrice": 0.36193,
+      "exitTime": "2023-03-22T16:00:00.000Z",
+      "loss": "87.80"
+    },
+    {
+      "tradeNumber": 3,
+      "entryPrice": 0.40934,
+      "entryTime": "2023-04-14T16:00:00.000Z",
+      "exitPrice": 0.39016,
+      "exitTime": "2023-04-19T08:00:00.000Z",
+      "loss": "17.51"
+    },
+    {
+      "tradeNumber": 4,
+      "entryPrice": 0.21916,
+      "entryTime": "2023-08-13T20:00:00.000Z",
+      "exitPrice": 0.20153,
+      "exitTime": "2023-08-15T16:00:00.000Z",
+      "loss": "29.94"
+    },
+    {
+      "tradeNumber": 5,
+      "entryPrice": 0.23278,
+      "entryTime": "2023-08-31T04:00:00.000Z",
+      "exitPrice": 0.23124,
+      "exitTime": "2023-09-21T04:00:00.000Z",
+      "loss": "2.41"
+    },
+    {
+      "tradeNumber": 6,
+      "entryPrice": 0.837,
+      "entryTime": "2024-08-05T04:00:00.000Z",
+      "exitPrice": 0.878,
+      "exitTime": "2024-08-12T12:00:00.000Z",
+      "loss": "28.92"
+    }
+  ]
+}
