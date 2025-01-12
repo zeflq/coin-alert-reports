@@ -1,0 +1,135 @@
+{
+  "symbol": "gateio:IDEA/USDT:1d",
+  "summary": {
+    "totalTrades": 14,
+    "netProfit": {
+      "amount": "1080.63",
+      "percentage": "108.06"
+    },
+    "lossRate": "28.57",
+    "winRate": "71.43",
+    "profitFactor": "4.87",
+    "maxDrawdown": {
+      "amount": "163.40",
+      "percentage": "16.34"
+    },
+    "averageGainPerTrade": "77.19",
+    "currentCapital": "2080.63"
+  },
+  "winningTrades": [
+    {
+      "tradeNumber": 1,
+      "entryPrice": 0.00181,
+      "entryTime": "2023-11-19T00:00:00.000Z",
+      "exitPrice": 0.00258,
+      "exitTime": "2023-12-19T00:00:00.000Z",
+      "gain": "106.35"
+    },
+    {
+      "tradeNumber": 2,
+      "entryPrice": 0.0031064,
+      "entryTime": "2024-02-29T00:00:00.000Z",
+      "exitPrice": 0.0047957,
+      "exitTime": "2024-03-26T00:00:00.000Z",
+      "gain": "150.41"
+    },
+    {
+      "tradeNumber": 3,
+      "entryPrice": 0.002801,
+      "entryTime": "2024-06-06T00:00:00.000Z",
+      "exitPrice": 0.000856,
+      "exitTime": "2024-09-17T00:00:00.000Z",
+      "gain": "198.07"
+    },
+    {
+      "tradeNumber": 4,
+      "entryPrice": 0.00068,
+      "entryTime": "2024-10-11T00:00:00.000Z",
+      "exitPrice": 0.00059,
+      "exitTime": "2024-11-13T00:00:00.000Z",
+      "gain": "44.31"
+    },
+    {
+      "tradeNumber": 5,
+      "entryPrice": 0.00097,
+      "entryTime": "2024-11-23T00:00:00.000Z",
+      "exitPrice": 0.001226,
+      "exitTime": "2024-12-25T00:00:00.000Z",
+      "gain": "91.27"
+    },
+    {
+      "tradeNumber": 6,
+      "entryPrice": 0.00209,
+      "entryTime": "2023-12-10T00:00:00.000Z",
+      "exitPrice": 0.00258,
+      "exitTime": "2023-12-19T00:00:00.000Z",
+      "gain": "86.43"
+    },
+    {
+      "tradeNumber": 7,
+      "entryPrice": 0.0031064,
+      "entryTime": "2024-02-29T00:00:00.000Z",
+      "exitPrice": 0.0047957,
+      "exitTime": "2024-03-26T00:00:00.000Z",
+      "gain": "212.23"
+    },
+    {
+      "tradeNumber": 8,
+      "entryPrice": 0.002801,
+      "entryTime": "2024-06-06T00:00:00.000Z",
+      "exitPrice": 0.000856,
+      "exitTime": "2024-09-17T00:00:00.000Z",
+      "gain": "279.47"
+    },
+    {
+      "tradeNumber": 9,
+      "entryPrice": 0.00068,
+      "entryTime": "2024-10-11T00:00:00.000Z",
+      "exitPrice": 0.00059,
+      "exitTime": "2024-11-13T00:00:00.000Z",
+      "gain": "62.51"
+    },
+    {
+      "tradeNumber": 10,
+      "entryPrice": 0.00097,
+      "entryTime": "2024-11-23T00:00:00.000Z",
+      "exitPrice": 0.001226,
+      "exitTime": "2024-12-25T00:00:00.000Z",
+      "gain": "128.78"
+    }
+  ],
+  "losingTrades": [
+    {
+      "tradeNumber": 1,
+      "entryPrice": 0.00486,
+      "entryTime": "2024-03-28T00:00:00.000Z",
+      "exitPrice": 0.0047091,
+      "exitTime": "2024-03-29T00:00:00.000Z",
+      "loss": "9.76"
+    },
+    {
+      "tradeNumber": 2,
+      "entryPrice": 0.0023952,
+      "entryTime": "2024-05-01T00:00:00.000Z",
+      "exitPrice": 0.00321,
+      "exitTime": "2024-06-04T00:00:00.000Z",
+      "loss": "106.05"
+    },
+    {
+      "tradeNumber": 3,
+      "entryPrice": 0.00486,
+      "entryTime": "2024-03-28T00:00:00.000Z",
+      "exitPrice": 0.0047091,
+      "exitTime": "2024-03-29T00:00:00.000Z",
+      "loss": "13.76"
+    },
+    {
+      "tradeNumber": 4,
+      "entryPrice": 0.0023952,
+      "entryTime": "2024-05-01T00:00:00.000Z",
+      "exitPrice": 0.00321,
+      "exitTime": "2024-06-04T00:00:00.000Z",
+      "loss": "149.64"
+    }
+  ]
+}

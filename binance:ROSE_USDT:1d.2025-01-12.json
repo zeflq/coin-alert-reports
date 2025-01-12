@@ -1,0 +1,101 @@
+{
+  "symbol": "binance:ROSE/USDT:1d",
+  "summary": {
+    "totalTrades": 25,
+    "netProfit": {
+      "amount": "1344.07",
+      "percentage": "134.41"
+    },
+    "lossRate": "40.00",
+    "winRate": "60.00",
+    "profitFactor": "5.48",
+    "maxDrawdown": {
+      "amount": "92.14",
+      "percentage": "9.21"
+    },
+    "averageGainPerTrade": "53.76",
+    "currentCapital": "2344.07"
+  },
+  "losingTrades": [
+    {
+      "tradeNumber": 1,
+      "entryPrice": 0.06222,
+      "entryTime": "2021-07-05T00:00:00.000Z",
+      "exitPrice": 0.06886,
+      "exitTime": "2021-07-07T00:00:00.000Z",
+      "loss": "26.68"
+    },
+    {
+      "tradeNumber": 2,
+      "entryPrice": 0.44858,
+      "entryTime": "2022-01-11T00:00:00.000Z",
+      "exitPrice": 0.42051,
+      "exitTime": "2022-01-20T00:00:00.000Z",
+      "loss": "19.95"
+    },
+    {
+      "tradeNumber": 3,
+      "entryPrice": 0.0572,
+      "entryTime": "2022-09-18T00:00:00.000Z",
+      "exitPrice": 0.06004,
+      "exitTime": "2022-10-23T00:00:00.000Z",
+      "loss": "19.03"
+    },
+    {
+      "tradeNumber": 4,
+      "entryPrice": 0.07238,
+      "entryTime": "2023-04-15T00:00:00.000Z",
+      "exitPrice": 0.06935,
+      "exitTime": "2023-04-19T00:00:00.000Z",
+      "loss": "16.64"
+    },
+    {
+      "tradeNumber": 5,
+      "entryPrice": 0.04504,
+      "entryTime": "2023-06-13T00:00:00.000Z",
+      "exitPrice": 0.05149,
+      "exitTime": "2023-06-21T00:00:00.000Z",
+      "loss": "56.67"
+    },
+    {
+      "tradeNumber": 6,
+      "entryPrice": 0.04966,
+      "entryTime": "2023-06-22T00:00:00.000Z",
+      "exitPrice": 0.05107,
+      "exitTime": "2023-06-25T00:00:00.000Z",
+      "loss": "10.83"
+    },
+    {
+      "tradeNumber": 7,
+      "entryPrice": 0.08842,
+      "entryTime": "2024-05-23T00:00:00.000Z",
+      "exitPrice": 0.09204,
+      "exitTime": "2024-05-28T00:00:00.000Z",
+      "loss": "22.00"
+    },
+    {
+      "tradeNumber": 8,
+      "entryPrice": 0.12949,
+      "entryTime": "2024-06-12T00:00:00.000Z",
+      "exitPrice": 0.12073,
+      "exitTime": "2024-06-13T00:00:00.000Z",
+      "loss": "35.98"
+    },
+    {
+      "tradeNumber": 9,
+      "entryPrice": 0.0552,
+      "entryTime": "2024-09-02T00:00:00.000Z",
+      "exitPrice": 0.0612,
+      "exitTime": "2024-09-14T00:00:00.000Z",
+      "loss": "60.98"
+    },
+    {
+      "tradeNumber": 10,
+      "entryPrice": 0.0585,
+      "entryTime": "2024-09-16T00:00:00.000Z",
+      "exitPrice": 0.06184,
+      "exitTime": "2024-09-18T00:00:00.000Z",
+      "loss": "31.16"
+    }
+  ]
+}

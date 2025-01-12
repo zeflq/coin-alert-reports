@@ -1,0 +1,77 @@
+{
+  "symbol": "gateio:VELO/USDT:1d",
+  "summary": {
+    "totalTrades": 18,
+    "netProfit": {
+      "amount": "421.08",
+      "percentage": "42.11"
+    },
+    "lossRate": "38.89",
+    "winRate": "61.11",
+    "profitFactor": "2.25",
+    "maxDrawdown": {
+      "amount": "210.02",
+      "percentage": "21.00"
+    },
+    "averageGainPerTrade": "23.39",
+    "currentCapital": "1421.08"
+  },
+  "losingTrades": [
+    {
+      "tradeNumber": 1,
+      "entryPrice": 0.002802,
+      "entryTime": "2023-10-30T00:00:00.000Z",
+      "exitPrice": 0.002647,
+      "exitTime": "2023-10-31T00:00:00.000Z",
+      "loss": "21.12"
+    },
+    {
+      "tradeNumber": 2,
+      "entryPrice": 0.005466,
+      "entryTime": "2024-02-19T00:00:00.000Z",
+      "exitPrice": 0.00465,
+      "exitTime": "2024-02-22T00:00:00.000Z",
+      "loss": "58.31"
+    },
+    {
+      "tradeNumber": 3,
+      "entryPrice": 0.0067,
+      "entryTime": "2024-03-03T00:00:00.000Z",
+      "exitPrice": 0.005871,
+      "exitTime": "2024-03-08T00:00:00.000Z",
+      "loss": "46.53"
+    },
+    {
+      "tradeNumber": 4,
+      "entryPrice": 0.0098,
+      "entryTime": "2024-06-18T00:00:00.000Z",
+      "exitPrice": 0.01109,
+      "exitTime": "2024-07-27T00:00:00.000Z",
+      "loss": "53.68"
+    },
+    {
+      "tradeNumber": 5,
+      "entryPrice": 0.01493,
+      "entryTime": "2024-08-30T00:00:00.000Z",
+      "exitPrice": 0.0143,
+      "exitTime": "2024-09-11T00:00:00.000Z",
+      "loss": "16.64"
+    },
+    {
+      "tradeNumber": 6,
+      "entryPrice": 0.01577,
+      "entryTime": "2024-09-12T00:00:00.000Z",
+      "exitPrice": 0.013125,
+      "exitTime": "2024-10-21T00:00:00.000Z",
+      "loss": "65.45"
+    },
+    {
+      "tradeNumber": 7,
+      "entryPrice": 0.012651,
+      "entryTime": "2024-10-31T00:00:00.000Z",
+      "exitPrice": 0.015164,
+      "exitTime": "2024-11-11T00:00:00.000Z",
+      "loss": "74.26"
+    }
+  ]
+}
