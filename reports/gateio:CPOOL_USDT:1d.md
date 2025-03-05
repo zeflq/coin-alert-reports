@@ -1,14 +1,14 @@
-# gateio:CPOOL/USDT:1d Backtest Report - 14/01/2025 23:22
+# gateio:CPOOL/USDT:1d Backtest Report - 05/03/2025 00:53
 ## Summary
 
-- Total trades: 12
-- Net Profit: $1220.87 (122.09%)
-- Loss Rate: 50.00%
-- Win Rate: 50.00%
-- Profit Factor: 4.57
+- Total trades: 13
+- Net Profit: $1227.64 (122.76%)
+- Loss Rate: 46.15%
+- Win Rate: 53.85%
+- Profit Factor: 4.59
 - Max Drawdown: $302.78 (30.28%)
-- Average Gain per Trade: $101.74
-- Current Capital: $2220.87
+- Average Gain per Trade: $94.43
+- Current Capital: $2227.64
 
 ## Winning Trades
 
@@ -20,6 +20,7 @@
 | 4 | Buy | 0.03171 | 23/11/2023 01:00 | 0.09969 | 06/01/2024 01:00 | $674.65 |
 | 5 | Sell | 0.11886 | 01/08/2024 02:00 | 0.10713 | 30/08/2024 02:00 | $40.23 |
 | 6 | Buy | 0.19012 | 11/10/2024 02:00 | 0.44044 | 30/12/2024 01:00 | $549.99 |
+| 7 | Sell | 0.30673 | 03/02/2025 01:00 | 0.30299 | 07/02/2025 01:00 | $6.77 |
 
 
 ## Losing Trades

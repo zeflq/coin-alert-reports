@@ -1,4 +1,4 @@
-# mexc:CSWAP/USDT:4h Backtest Report - 14/01/2025 23:26
+# mexc:CSWAP/USDT:4h Backtest Report - 05/03/2025 01:35
 ## Summary
 
 - Total trades: 11

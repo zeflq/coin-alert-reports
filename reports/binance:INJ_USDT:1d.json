@@ -1,20 +1,20 @@
 {
   "symbol": "binance:INJ/USDT:1d",
   "summary": {
-    "totalTrades": 16,
+    "totalTrades": 18,
     "netProfit": {
-      "amount": "1777.58",
-      "percentage": "177.76"
+      "amount": "1913.27",
+      "percentage": "191.33"
     },
     "lossRate": "50.00",
     "winRate": "50.00",
-    "profitFactor": "6.30",
+    "profitFactor": "5.71",
     "maxDrawdown": {
-      "amount": "254.92",
-      "percentage": "25.49"
+      "amount": "324.54",
+      "percentage": "32.45"
     },
-    "averageGainPerTrade": "111.10",
-    "currentCapital": "2777.58"
+    "averageGainPerTrade": "106.29",
+    "currentCapital": "2913.27"
   },
   "winningTrades": [
     {
@@ -87,6 +87,15 @@
       "exitPrice": 17.29,
       "exitTime": "2024-09-09T00:00:00.000Z",
       "gain": "1.20",
+      "signalType": "Sell"
+    },
+    {
+      "tradeNumber": 9,
+      "entryPrice": 19.17,
+      "entryTime": "2025-01-27T00:00:00.000Z",
+      "exitPrice": 13.32,
+      "exitTime": "2025-02-28T00:00:00.000Z",
+      "gain": "206.50",
       "signalType": "Sell"
     }
   ],
@@ -161,6 +170,15 @@
       "exitPrice": 20.06,
       "exitTime": "2024-08-22T00:00:00.000Z",
       "loss": "98.12",
+      "signalType": "Sell"
+    },
+    {
+      "tradeNumber": 9,
+      "entryPrice": 20.69,
+      "entryTime": "2025-01-19T00:00:00.000Z",
+      "exitPrice": 22.8,
+      "exitTime": "2025-01-21T00:00:00.000Z",
+      "loss": "70.82",
       "signalType": "Sell"
     }
   ]

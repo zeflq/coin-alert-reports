@@ -1,14 +1,14 @@
-# binance:BTC/USDT:4h Backtest Report - 14/01/2025 23:17
+# binance:BTC/USDT:4h Backtest Report - 04/03/2025 02:09
 ## Summary
 
-- Total trades: 46
-- Net Profit: $1125.42 (112.54%)
-- Loss Rate: 41.30%
-- Win Rate: 58.70%
-- Profit Factor: 3.90
+- Total trades: 47
+- Net Profit: $1114.98 (111.50%)
+- Loss Rate: 42.55%
+- Win Rate: 57.45%
+- Profit Factor: 3.80
 - Max Drawdown: $69.65 (6.97%)
-- Average Gain per Trade: $24.47
-- Current Capital: $2125.42
+- Average Gain per Trade: $23.72
+- Current Capital: $2114.98
 
 ## Winning Trades
 
@@ -66,3 +66,4 @@
 | 17 | Buy | 102964 | 05/12/2024 01:00 | 97276.47 | 09/12/2024 21:00 | $30.11 |
 | 18 | Buy | 104582.28 | 16/12/2024 01:00 | 102817.82 | 18/12/2024 17:00 | $9.07 |
 | 19 | Sell | 93738.2 | 29/12/2024 21:00 | 96451.98 | 07/01/2025 17:00 | $15.50 |
+| 20 | Sell | 95333.01 | 03/02/2025 05:00 | 97205.06 | 12/02/2025 17:00 | $10.43 |

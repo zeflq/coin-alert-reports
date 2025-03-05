@@ -1,14 +1,14 @@
-# binance:ICP/USDT:1d Backtest Report - 14/01/2025 23:19
+# binance:ICP/USDT:1d Backtest Report - 05/03/2025 00:41
 ## Summary
 
-- Total trades: 11
-- Net Profit: $1188.69 (118.87%)
-- Loss Rate: 36.36%
-- Win Rate: 63.64%
-- Profit Factor: 5.58
-- Max Drawdown: $201.94 (20.19%)
-- Average Gain per Trade: $108.06
-- Current Capital: $2188.69
+- Total trades: 12
+- Net Profit: $1121.84 (112.18%)
+- Loss Rate: 41.67%
+- Win Rate: 58.33%
+- Profit Factor: 4.44
+- Max Drawdown: $268.79 (26.88%)
+- Average Gain per Trade: $93.49
+- Current Capital: $2121.84
 
 ## Winning Trades
 
@@ -31,3 +31,4 @@
 | 2 | Buy | 7.348 | 19/02/2023 01:00 | 6.244 | 17/04/2023 02:00 | $51.33 |
 | 3 | Sell | 7.281 | 12/08/2024 02:00 | 8.93 | 10/09/2024 02:00 | $135.36 |
 | 4 | Sell | 7.706 | 25/10/2024 02:00 | 8.616 | 08/11/2024 01:00 | $66.58 |
+| 5 | Buy | 11.27 | 22/11/2024 01:00 | 9.893 | 19/01/2025 01:00 | $66.86 |

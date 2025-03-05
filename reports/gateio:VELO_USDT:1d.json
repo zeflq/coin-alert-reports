@@ -1,20 +1,20 @@
 {
   "symbol": "gateio:VELO/USDT:1d",
   "summary": {
-    "totalTrades": 18,
+    "totalTrades": 20,
     "netProfit": {
-      "amount": "421.08",
-      "percentage": "42.11"
+      "amount": "656.62",
+      "percentage": "65.66"
     },
-    "lossRate": "38.89",
-    "winRate": "61.11",
-    "profitFactor": "2.25",
+    "lossRate": "35.00",
+    "winRate": "65.00",
+    "profitFactor": "2.95",
     "maxDrawdown": {
       "amount": "210.02",
       "percentage": "21.00"
     },
-    "averageGainPerTrade": "23.39",
-    "currentCapital": "1421.08"
+    "averageGainPerTrade": "32.83",
+    "currentCapital": "1656.62"
   },
   "winningTrades": [
     {
@@ -115,6 +115,24 @@
       "exitTime": "2024-06-11T00:00:00.000Z",
       "gain": "165.10",
       "signalType": "Buy"
+    },
+    {
+      "tradeNumber": 12,
+      "entryPrice": 0.017174,
+      "entryTime": "2024-11-22T00:00:00.000Z",
+      "exitPrice": 0.027015,
+      "exitTime": "2025-01-18T00:00:00.000Z",
+      "gain": "203.58",
+      "signalType": "Buy"
+    },
+    {
+      "tradeNumber": 13,
+      "entryPrice": 0.019492,
+      "entryTime": "2025-02-03T00:00:00.000Z",
+      "exitPrice": 0.017958,
+      "exitTime": "2025-02-25T00:00:00.000Z",
+      "gain": "31.96",
+      "signalType": "Sell"
     }
   ],
   "losingTrades": [

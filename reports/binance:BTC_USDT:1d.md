@@ -1,4 +1,4 @@
-# binance:BTC/USDT:1d Backtest Report - 14/01/2025 23:17
+# binance:BTC/USDT:1d Backtest Report - 04/03/2025 02:05
 ## Summary
 
 - Total trades: 17

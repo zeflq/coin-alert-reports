@@ -1,20 +1,20 @@
 {
   "symbol": "gateio:CPOOL/USDT:1d",
   "summary": {
-    "totalTrades": 12,
+    "totalTrades": 13,
     "netProfit": {
-      "amount": "1220.87",
-      "percentage": "122.09"
+      "amount": "1227.64",
+      "percentage": "122.76"
     },
-    "lossRate": "50.00",
-    "winRate": "50.00",
-    "profitFactor": "4.57",
+    "lossRate": "46.15",
+    "winRate": "53.85",
+    "profitFactor": "4.59",
     "maxDrawdown": {
       "amount": "302.78",
       "percentage": "30.28"
     },
-    "averageGainPerTrade": "101.74",
-    "currentCapital": "2220.87"
+    "averageGainPerTrade": "94.43",
+    "currentCapital": "2227.64"
   },
   "winningTrades": [
     {
@@ -70,6 +70,15 @@
       "exitTime": "2024-12-30T00:00:00.000Z",
       "gain": "549.99",
       "signalType": "Buy"
+    },
+    {
+      "tradeNumber": 7,
+      "entryPrice": 0.30673,
+      "entryTime": "2025-02-03T00:00:00.000Z",
+      "exitPrice": 0.30299,
+      "exitTime": "2025-02-07T00:00:00.000Z",
+      "gain": "6.77",
+      "signalType": "Sell"
     }
   ],
   "losingTrades": [

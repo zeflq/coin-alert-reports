@@ -1,14 +1,14 @@
-# gateio:VELO/USDT:1d Backtest Report - 14/01/2025 23:24
+# gateio:VELO/USDT:1d Backtest Report - 05/03/2025 01:13
 ## Summary
 
-- Total trades: 18
-- Net Profit: $421.08 (42.11%)
-- Loss Rate: 38.89%
-- Win Rate: 61.11%
-- Profit Factor: 2.25
+- Total trades: 20
+- Net Profit: $656.62 (65.66%)
+- Loss Rate: 35.00%
+- Win Rate: 65.00%
+- Profit Factor: 2.95
 - Max Drawdown: $210.02 (21.00%)
-- Average Gain per Trade: $23.39
-- Current Capital: $1421.08
+- Average Gain per Trade: $32.83
+- Current Capital: $1656.62
 
 ## Winning Trades
 
@@ -25,6 +25,8 @@
 | 9 | Buy | 0.0044 | 01/01/2024 01:00 | 0.004764 | 06/02/2024 01:00 | $31.66 |
 | 10 | Buy | 0.006033 | 12/03/2024 01:00 | 0.006172 | 25/03/2024 01:00 | $8.40 |
 | 11 | Buy | 0.009259 | 28/03/2024 01:00 | 0.01343 | 11/06/2024 02:00 | $165.10 |
+| 12 | Buy | 0.017174 | 22/11/2024 01:00 | 0.027015 | 18/01/2025 01:00 | $203.58 |
+| 13 | Sell | 0.019492 | 03/02/2025 01:00 | 0.017958 | 25/02/2025 01:00 | $31.96 |
 
 
 ## Losing Trades

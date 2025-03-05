@@ -1,14 +1,14 @@
-# gateio:WELL/USDT:1d Backtest Report - 14/01/2025 23:25
+# gateio:WELL/USDT:1d Backtest Report - 05/03/2025 01:22
 ## Summary
 
-- Total trades: 6
-- Net Profit: $1716.63 (171.66%)
-- Loss Rate: 33.33%
-- Win Rate: 66.67%
-- Profit Factor: 10.55
+- Total trades: 7
+- Net Profit: $1847.67 (184.77%)
+- Loss Rate: 28.57%
+- Win Rate: 71.43%
+- Profit Factor: 11.28
 - Max Drawdown: $178.45 (17.84%)
-- Average Gain per Trade: $286.11
-- Current Capital: $2716.63
+- Average Gain per Trade: $263.95
+- Current Capital: $2847.67
 
 ## Winning Trades
 
@@ -18,6 +18,7 @@
 | 2 | Buy | 0.00661 | 25/11/2023 01:00 | 0.009371 | 24/12/2023 01:00 | $110.61 |
 | 3 | Buy | 0.008064 | 02/01/2024 01:00 | 0.029943 | 08/05/2024 02:00 | $793.50 |
 | 4 | Buy | 0.02932 | 20/09/2024 02:00 | 0.09054 | 16/12/2024 01:00 | $931.72 |
+| 5 | Sell | 0.03711 | 03/02/2025 01:00 | 0.02995 | 02/03/2025 01:00 | $131.04 |
 
 
 ## Losing Trades

@@ -1,0 +1,149 @@
+{
+  "symbol": "gateio:OPUL/USDT:1d",
+  "summary": {
+    "totalTrades": 14,
+    "netProfit": {
+      "amount": "711.80",
+      "percentage": "71.18"
+    },
+    "lossRate": "35.71",
+    "winRate": "64.29",
+    "profitFactor": "5.31",
+    "maxDrawdown": {
+      "amount": "113.89",
+      "percentage": "11.39"
+    },
+    "averageGainPerTrade": "50.84",
+    "currentCapital": "1711.80"
+  },
+  "winningTrades": [
+    {
+      "tradeNumber": 1,
+      "entryPrice": 0.16065,
+      "entryTime": "2022-06-08T00:00:00.000Z",
+      "exitPrice": 0.09098,
+      "exitTime": "2022-07-22T00:00:00.000Z",
+      "gain": "108.42",
+      "signalType": "Sell"
+    },
+    {
+      "tradeNumber": 2,
+      "entryPrice": 0.078362,
+      "entryTime": "2022-10-06T00:00:00.000Z",
+      "exitPrice": 0.065077,
+      "exitTime": "2022-11-10T00:00:00.000Z",
+      "gain": "46.98",
+      "signalType": "Sell"
+    },
+    {
+      "tradeNumber": 3,
+      "entryPrice": 0.063884,
+      "entryTime": "2022-11-11T00:00:00.000Z",
+      "exitPrice": 0.063159,
+      "exitTime": "2022-11-29T00:00:00.000Z",
+      "gain": "3.28",
+      "signalType": "Sell"
+    },
+    {
+      "tradeNumber": 4,
+      "entryPrice": 0.078645,
+      "entryTime": "2023-01-20T00:00:00.000Z",
+      "exitPrice": 0.193302,
+      "exitTime": "2023-02-26T00:00:00.000Z",
+      "gain": "422.31",
+      "signalType": "Buy"
+    },
+    {
+      "tradeNumber": 5,
+      "entryPrice": 0.107215,
+      "entryTime": "2023-06-01T00:00:00.000Z",
+      "exitPrice": 0.076845,
+      "exitTime": "2023-08-22T00:00:00.000Z",
+      "gain": "111.96",
+      "signalType": "Sell"
+    },
+    {
+      "tradeNumber": 6,
+      "entryPrice": 0.081218,
+      "entryTime": "2023-10-27T00:00:00.000Z",
+      "exitPrice": 0.09367,
+      "exitTime": "2023-11-22T00:00:00.000Z",
+      "gain": "64.66",
+      "signalType": "Buy"
+    },
+    {
+      "tradeNumber": 7,
+      "entryPrice": 0.12267,
+      "entryTime": "2023-12-06T00:00:00.000Z",
+      "exitPrice": 0.12556,
+      "exitTime": "2023-12-20T00:00:00.000Z",
+      "gain": "10.32",
+      "signalType": "Buy"
+    },
+    {
+      "tradeNumber": 8,
+      "entryPrice": 0.23034,
+      "entryTime": "2024-03-14T00:00:00.000Z",
+      "exitPrice": 0.25964,
+      "exitTime": "2024-04-03T00:00:00.000Z",
+      "gain": "56.03",
+      "signalType": "Buy"
+    },
+    {
+      "tradeNumber": 9,
+      "entryPrice": 0.08673,
+      "entryTime": "2024-11-23T00:00:00.000Z",
+      "exitPrice": 0.09754,
+      "exitTime": "2024-12-14T00:00:00.000Z",
+      "gain": "53.10",
+      "signalType": "Buy"
+    }
+  ],
+  "losingTrades": [
+    {
+      "tradeNumber": 1,
+      "entryPrice": 0.060666,
+      "entryTime": "2023-09-08T00:00:00.000Z",
+      "exitPrice": 0.061525,
+      "exitTime": "2023-10-25T00:00:00.000Z",
+      "loss": "5.99",
+      "signalType": "Sell"
+    },
+    {
+      "tradeNumber": 2,
+      "entryPrice": 0.0583,
+      "entryTime": "2024-08-05T00:00:00.000Z",
+      "exitPrice": 0.05833,
+      "exitTime": "2024-09-11T00:00:00.000Z",
+      "loss": "0.23",
+      "signalType": "Sell"
+    },
+    {
+      "tradeNumber": 3,
+      "entryPrice": 0.08804,
+      "entryTime": "2024-09-29T00:00:00.000Z",
+      "exitPrice": 0.07962,
+      "exitTime": "2024-10-02T00:00:00.000Z",
+      "loss": "43.46",
+      "signalType": "Buy"
+    },
+    {
+      "tradeNumber": 4,
+      "entryPrice": 0.05422,
+      "entryTime": "2024-11-03T00:00:00.000Z",
+      "exitPrice": 0.0628,
+      "exitTime": "2024-11-06T00:00:00.000Z",
+      "loss": "70.19",
+      "signalType": "Sell"
+    },
+    {
+      "tradeNumber": 5,
+      "entryPrice": 0.0581,
+      "entryTime": "2025-01-13T00:00:00.000Z",
+      "exitPrice": 0.0641,
+      "exitTime": "2025-02-18T00:00:00.000Z",
+      "loss": "45.37",
+      "signalType": "Sell"
+    }
+  ]
+}

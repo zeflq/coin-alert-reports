@@ -1,20 +1,20 @@
 {
   "symbol": "binance:ETH/USDT:1d",
   "summary": {
-    "totalTrades": 27,
+    "totalTrades": 29,
     "netProfit": {
-      "amount": "2211.92",
-      "percentage": "221.19"
+      "amount": "2286.79",
+      "percentage": "228.68"
     },
-    "lossRate": "25.93",
-    "winRate": "74.07",
-    "profitFactor": "5.08",
+    "lossRate": "27.59",
+    "winRate": "72.41",
+    "profitFactor": "5.20",
     "maxDrawdown": {
       "amount": "244.05",
       "percentage": "24.41"
     },
-    "averageGainPerTrade": "81.92",
-    "currentCapital": "3211.92"
+    "averageGainPerTrade": "78.85",
+    "currentCapital": "3286.79"
   },
   "winningTrades": [
     {
@@ -196,6 +196,15 @@
       "exitTime": "2024-12-19T00:00:00.000Z",
       "gain": "91.36",
       "signalType": "Buy"
+    },
+    {
+      "tradeNumber": 21,
+      "entryPrice": 2788.25,
+      "entryTime": "2025-02-05T00:00:00.000Z",
+      "exitPrice": 2518.11,
+      "exitTime": "2025-03-02T00:00:00.000Z",
+      "gain": "77.73",
+      "signalType": "Sell"
     }
   ],
   "losingTrades": [
@@ -261,6 +270,15 @@
       "exitTime": "2024-06-18T00:00:00.000Z",
       "loss": "52.85",
       "signalType": "Buy"
+    },
+    {
+      "tradeNumber": 8,
+      "entryPrice": 2869.68,
+      "entryTime": "2025-02-02T00:00:00.000Z",
+      "exitPrice": 2879.9,
+      "exitTime": "2025-02-03T00:00:00.000Z",
+      "loss": "2.86",
+      "signalType": "Sell"
     }
   ]
 }

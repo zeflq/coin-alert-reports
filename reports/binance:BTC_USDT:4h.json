@@ -1,20 +1,20 @@
 {
   "symbol": "binance:BTC/USDT:4h",
   "summary": {
-    "totalTrades": 46,
+    "totalTrades": 47,
     "netProfit": {
-      "amount": "1125.42",
-      "percentage": "112.54"
+      "amount": "1114.98",
+      "percentage": "111.50"
     },
-    "lossRate": "41.30",
-    "winRate": "58.70",
-    "profitFactor": "3.90",
+    "lossRate": "42.55",
+    "winRate": "57.45",
+    "profitFactor": "3.80",
     "maxDrawdown": {
       "amount": "69.65",
       "percentage": "6.97"
     },
-    "averageGainPerTrade": "24.47",
-    "currentCapital": "2125.42"
+    "averageGainPerTrade": "23.72",
+    "currentCapital": "2114.98"
   },
   "winningTrades": [
     {
@@ -431,6 +431,15 @@
       "exitPrice": 96451.98,
       "exitTime": "2025-01-07T16:00:00.000Z",
       "loss": "15.50",
+      "signalType": "Sell"
+    },
+    {
+      "tradeNumber": 20,
+      "entryPrice": 95333.01,
+      "entryTime": "2025-02-03T04:00:00.000Z",
+      "exitPrice": 97205.06,
+      "exitTime": "2025-02-12T16:00:00.000Z",
+      "loss": "10.43",
       "signalType": "Sell"
     }
   ]

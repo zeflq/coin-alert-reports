@@ -1,0 +1,77 @@
+{
+  "symbol": "gateio:ZIG/USDT:1d",
+  "summary": {
+    "totalTrades": 6,
+    "netProfit": {
+      "amount": "92.51",
+      "percentage": "9.25"
+    },
+    "lossRate": "50.00",
+    "winRate": "50.00",
+    "profitFactor": "3.11",
+    "maxDrawdown": {
+      "amount": "24.63",
+      "percentage": "2.46"
+    },
+    "averageGainPerTrade": "15.42",
+    "currentCapital": "1092.51"
+  },
+  "winningTrades": [
+    {
+      "tradeNumber": 1,
+      "entryPrice": 0.005907,
+      "entryTime": "2023-04-28T00:00:00.000Z",
+      "exitPrice": 0.005348,
+      "exitTime": "2023-07-17T00:00:00.000Z",
+      "gain": "23.66",
+      "signalType": "Sell"
+    },
+    {
+      "tradeNumber": 2,
+      "entryPrice": 0.022137,
+      "entryTime": "2023-11-10T00:00:00.000Z",
+      "exitPrice": 0.02962,
+      "exitTime": "2023-12-11T00:00:00.000Z",
+      "gain": "84.87",
+      "signalType": "Buy"
+    },
+    {
+      "tradeNumber": 3,
+      "entryPrice": 0.08162,
+      "entryTime": "2024-03-02T00:00:00.000Z",
+      "exitPrice": 0.08999,
+      "exitTime": "2024-03-22T00:00:00.000Z",
+      "gain": "27.92",
+      "signalType": "Buy"
+    }
+  ],
+  "losingTrades": [
+    {
+      "tradeNumber": 1,
+      "entryPrice": 0.013025,
+      "entryTime": "2023-09-08T00:00:00.000Z",
+      "exitPrice": 0.012042,
+      "exitTime": "2023-10-04T00:00:00.000Z",
+      "loss": "19.31",
+      "signalType": "Buy"
+    },
+    {
+      "tradeNumber": 2,
+      "entryPrice": 0.10529,
+      "entryTime": "2024-07-05T00:00:00.000Z",
+      "exitPrice": 0.09774,
+      "exitTime": "2024-07-08T00:00:00.000Z",
+      "loss": "20.03",
+      "signalType": "Buy"
+    },
+    {
+      "tradeNumber": 3,
+      "entryPrice": 0.15125,
+      "entryTime": "2024-11-18T00:00:00.000Z",
+      "exitPrice": 0.14871,
+      "exitTime": "2024-12-10T00:00:00.000Z",
+      "loss": "4.61",
+      "signalType": "Buy"
+    }
+  ]
+}

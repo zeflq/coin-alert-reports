@@ -1,14 +1,14 @@
-# gateio:MUBI/USDT:4h Backtest Report - 14/01/2025 23:23
+# gateio:MUBI/USDT:4h Backtest Report - 05/03/2025 01:07
 ## Summary
 
-- Total trades: 19
-- Net Profit: $540.11 (54.01%)
-- Loss Rate: 36.84%
-- Win Rate: 63.16%
-- Profit Factor: 4.85
+- Total trades: 21
+- Net Profit: $797.28 (79.73%)
+- Loss Rate: 33.33%
+- Win Rate: 66.67%
+- Profit Factor: 6.68
 - Max Drawdown: $45.02 (4.50%)
-- Average Gain per Trade: $28.43
-- Current Capital: $1540.11
+- Average Gain per Trade: $37.97
+- Current Capital: $1797.28
 
 ## Winning Trades
 
@@ -26,6 +26,8 @@
 | 10 | Sell | 0.02866 | 09/10/2024 14:00 | 0.02849 | 29/10/2024 17:00 | $2.07 |
 | 11 | Buy | 0.0309 | 29/11/2024 05:00 | 0.04011 | 09/12/2024 05:00 | $102.54 |
 | 12 | Sell | 0.03019 | 10/12/2024 17:00 | 0.02434 | 25/12/2024 05:00 | $71.63 |
+| 13 | Sell | 0.02031 | 08/01/2025 01:00 | 0.011902 | 27/01/2025 05:00 | $159.39 |
+| 14 | Sell | 0.01109 | 28/01/2025 13:00 | 0.008538 | 14/02/2025 17:00 | $97.77 |
 
 
 ## Losing Trades

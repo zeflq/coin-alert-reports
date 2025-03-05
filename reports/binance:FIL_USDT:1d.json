@@ -1,20 +1,20 @@
 {
   "symbol": "binance:FIL/USDT:1d",
   "summary": {
-    "totalTrades": 9,
+    "totalTrades": 10,
     "netProfit": {
-      "amount": "339.29",
-      "percentage": "33.93"
+      "amount": "372.02",
+      "percentage": "37.20"
     },
-    "lossRate": "33.33",
-    "winRate": "66.67",
-    "profitFactor": "2.22",
+    "lossRate": "30.00",
+    "winRate": "70.00",
+    "profitFactor": "2.33",
     "maxDrawdown": {
       "amount": "188.96",
       "percentage": "18.90"
     },
-    "averageGainPerTrade": "37.70",
-    "currentCapital": "1339.29"
+    "averageGainPerTrade": "37.20",
+    "currentCapital": "1372.02"
   },
   "winningTrades": [
     {
@@ -69,6 +69,15 @@
       "exitPrice": 4.284,
       "exitTime": "2024-07-13T00:00:00.000Z",
       "gain": "5.54",
+      "signalType": "Sell"
+    },
+    {
+      "tradeNumber": 7,
+      "entryPrice": 3.601,
+      "entryTime": "2025-02-02T00:00:00.000Z",
+      "exitPrice": 3.249,
+      "exitTime": "2025-02-28T00:00:00.000Z",
+      "gain": "32.73",
       "signalType": "Sell"
     }
   ],

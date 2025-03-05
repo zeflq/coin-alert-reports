@@ -1,0 +1,31 @@
+{
+  "symbol": "gateio:GMRX/USDT:1d",
+  "summary": {
+    "totalTrades": 1,
+    "netProfit": {
+      "amount": "-32.23",
+      "percentage": "-3.22"
+    },
+    "lossRate": "100.00",
+    "winRate": "0.00",
+    "profitFactor": "0.00",
+    "maxDrawdown": {
+      "amount": "32.23",
+      "percentage": "3.22"
+    },
+    "averageGainPerTrade": "-32.23",
+    "currentCapital": "967.77"
+  },
+  "winningTrades": [],
+  "losingTrades": [
+    {
+      "tradeNumber": 1,
+      "entryPrice": 0.001148,
+      "entryTime": "2024-12-06T00:00:00.000Z",
+      "exitPrice": 0.001,
+      "exitTime": "2024-12-09T00:00:00.000Z",
+      "loss": "32.23",
+      "signalType": "Buy"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "symbol": "binance:ILV/USDT:1d",
+  "summary": {
+    "totalTrades": 7,
+    "netProfit": {
+      "amount": "470.12",
+      "percentage": "47.01"
+    },
+    "lossRate": "14.29",
+    "winRate": "85.71",
+    "profitFactor": "24.09",
+    "maxDrawdown": {
+      "amount": "20.36",
+      "percentage": "2.04"
+    },
+    "averageGainPerTrade": "67.16",
+    "currentCapital": "1470.12"
+  },
+  "winningTrades": [
+    {
+      "tradeNumber": 1,
+      "entryPrice": 119.9,
+      "entryTime": "2022-07-01T00:00:00.000Z",
+      "exitPrice": 58.3,
+      "exitTime": "2022-10-23T00:00:00.000Z",
+      "gain": "128.44",
+      "signalType": "Sell"
+    },
+    {
+      "tradeNumber": 2,
+      "entryPrice": 70.72,
+      "entryTime": "2023-01-29T00:00:00.000Z",
+      "exitPrice": 74.74,
+      "exitTime": "2023-02-09T00:00:00.000Z",
+      "gain": "16.04",
+      "signalType": "Buy"
+    },
+    {
+      "tradeNumber": 3,
+      "entryPrice": 50.05,
+      "entryTime": "2023-10-27T00:00:00.000Z",
+      "exitPrice": 97.07,
+      "exitTime": "2023-12-06T00:00:00.000Z",
+      "gain": "268.80",
+      "signalType": "Buy"
+    },
+    {
+      "tradeNumber": 4,
+      "entryPrice": 110.7,
+      "entryTime": "2024-02-26T00:00:00.000Z",
+      "exitPrice": 121.53,
+      "exitTime": "2024-03-07T00:00:00.000Z",
+      "gain": "34.57",
+      "signalType": "Buy"
+    },
+    {
+      "tradeNumber": 5,
+      "entryPrice": 39.09,
+      "entryTime": "2024-08-05T00:00:00.000Z",
+      "exitPrice": 38.41,
+      "exitTime": "2024-09-23T00:00:00.000Z",
+      "gain": "6.30",
+      "signalType": "Sell"
+    },
+    {
+      "tradeNumber": 6,
+      "entryPrice": 48.43,
+      "entryTime": "2024-11-23T00:00:00.000Z",
+      "exitPrice": 53.34,
+      "exitTime": "2024-12-10T00:00:00.000Z",
+      "gain": "36.34",
+      "signalType": "Buy"
+    }
+  ],
+  "losingTrades": [
+    {
+      "tradeNumber": 1,
+      "entryPrice": 43.39,
+      "entryTime": "2024-11-19T00:00:00.000Z",
+      "exitPrice": 40.96,
+      "exitTime": "2024-11-20T00:00:00.000Z",
+      "loss": "20.36",
+      "signalType": "Buy"
+    }
+  ]
+}

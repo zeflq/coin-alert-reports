@@ -1,14 +1,14 @@
-# binance:FIL/USDT:1d Backtest Report - 14/01/2025 23:18
+# binance:FIL/USDT:1d Backtest Report - 05/03/2025 00:35
 ## Summary
 
-- Total trades: 9
-- Net Profit: $339.29 (33.93%)
-- Loss Rate: 33.33%
-- Win Rate: 66.67%
-- Profit Factor: 2.22
+- Total trades: 10
+- Net Profit: $372.02 (37.20%)
+- Loss Rate: 30.00%
+- Win Rate: 70.00%
+- Profit Factor: 2.33
 - Max Drawdown: $188.96 (18.90%)
-- Average Gain per Trade: $37.70
-- Current Capital: $1339.29
+- Average Gain per Trade: $37.20
+- Current Capital: $1372.02
 
 ## Winning Trades
 
@@ -20,6 +20,7 @@
 | 4 | Buy | 5.427 | 22/01/2023 01:00 | 7.609 | 17/02/2023 01:00 | $128.66 |
 | 5 | Buy | 3.857 | 30/10/2023 01:00 | 6.116 | 07/06/2024 02:00 | $178.59 |
 | 6 | Sell | 4.353 | 18/06/2024 02:00 | 4.284 | 13/07/2024 02:00 | $5.54 |
+| 7 | Sell | 3.601 | 02/02/2025 01:00 | 3.249 | 28/02/2025 01:00 | $32.73 |
 
 
 ## Losing Trades

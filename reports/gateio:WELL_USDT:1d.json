@@ -1,20 +1,20 @@
 {
   "symbol": "gateio:WELL/USDT:1d",
   "summary": {
-    "totalTrades": 6,
+    "totalTrades": 7,
     "netProfit": {
-      "amount": "1716.63",
-      "percentage": "171.66"
+      "amount": "1847.67",
+      "percentage": "184.77"
     },
-    "lossRate": "33.33",
-    "winRate": "66.67",
-    "profitFactor": "10.55",
+    "lossRate": "28.57",
+    "winRate": "71.43",
+    "profitFactor": "11.28",
     "maxDrawdown": {
       "amount": "178.45",
       "percentage": "17.84"
     },
-    "averageGainPerTrade": "286.11",
-    "currentCapital": "2716.63"
+    "averageGainPerTrade": "263.95",
+    "currentCapital": "2847.67"
   },
   "winningTrades": [
     {
@@ -52,6 +52,15 @@
       "exitTime": "2024-12-16T00:00:00.000Z",
       "gain": "931.72",
       "signalType": "Buy"
+    },
+    {
+      "tradeNumber": 5,
+      "entryPrice": 0.03711,
+      "entryTime": "2025-02-03T00:00:00.000Z",
+      "exitPrice": 0.02995,
+      "exitTime": "2025-03-02T00:00:00.000Z",
+      "gain": "131.04",
+      "signalType": "Sell"
     }
   ],
   "losingTrades": [
