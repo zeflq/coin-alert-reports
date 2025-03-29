@@ -1,0 +1,860 @@
+{
+  "symbol": "gateio:DIONE/USDT:4h",
+  "summary": {
+    "totalTrades": 32,
+    "netProfit": {
+      "amount": "924.08",
+      "percentage": "92.41"
+    },
+    "lossRate": "46.88",
+    "winRate": "53.13",
+    "profitFactor": "5.14",
+    "maxDrawdown": {
+      "amount": "120.10",
+      "percentage": "12.01"
+    },
+    "averageGainPerTrade": "28.88",
+    "currentCapital": "1924.08"
+  },
+  "winningTrades": [
+    {
+      "tradeNumber": 1,
+      "entryPrice": 0.003321,
+      "entryTime": "2024-01-07T12:00:00.000Z",
+      "exitPrice": 0.004114,
+      "exitTime": "2024-01-13T00:00:00.000Z",
+      "gain": "58.66",
+      "signalType": "Buy",
+      "entryContext": {
+        "volumeRatio": 1.612,
+        "fvgType": null,
+        "deltaPer": 4.507042253521128,
+        "stdDev9Pct": 9.0334,
+        "stdDev12Pct": 9.0334,
+        "stdDev26Pct": 9.0334,
+        "stdDev52Pct": 6.0223
+      },
+      "exitContext": {
+        "volumeRatio": 0.296,
+        "fvgType": null,
+        "deltaPer": -2.4911868390129306,
+        "stdDev9Pct": 4.8614,
+        "stdDev12Pct": 4.8614,
+        "stdDev26Pct": 7.2922,
+        "stdDev52Pct": 17.0151
+      }
+    },
+    {
+      "tradeNumber": 2,
+      "entryPrice": 0.004137,
+      "entryTime": "2024-02-11T08:00:00.000Z",
+      "exitPrice": 0.004246,
+      "exitTime": "2024-02-15T00:00:00.000Z",
+      "gain": "6.71",
+      "signalType": "Buy",
+      "entryContext": {
+        "volumeRatio": 1.942,
+        "fvgType": null,
+        "deltaPer": -0.6711409395972968,
+        "stdDev9Pct": 2.4172,
+        "stdDev12Pct": 2.4172,
+        "stdDev26Pct": 4.8344,
+        "stdDev52Pct": 4.8344
+      },
+      "exitContext": {
+        "volumeRatio": 0.477,
+        "fvgType": null,
+        "deltaPer": 0.8156606851549828,
+        "stdDev9Pct": 2.3552,
+        "stdDev12Pct": 2.3552,
+        "stdDev26Pct": 4.7103,
+        "stdDev52Pct": 7.0655
+      }
+    },
+    {
+      "tradeNumber": 3,
+      "entryPrice": 0.004568,
+      "entryTime": "2024-02-21T12:00:00.000Z",
+      "exitPrice": 0.006512,
+      "exitTime": "2024-02-29T20:00:00.000Z",
+      "gain": "109.14",
+      "signalType": "Buy",
+      "entryContext": {
+        "volumeRatio": 1.876,
+        "fvgType": "bearish",
+        "deltaPer": -6.560099647083254,
+        "stdDev9Pct": 4.3783,
+        "stdDev12Pct": 6.5674,
+        "stdDev26Pct": 6.5674,
+        "stdDev52Pct": 4.3783
+      },
+      "exitContext": {
+        "volumeRatio": 0.621,
+        "fvgType": null,
+        "deltaPer": -4.445711028783126,
+        "stdDev9Pct": 4.6069,
+        "stdDev12Pct": 4.6069,
+        "stdDev26Pct": 6.1425,
+        "stdDev52Pct": 13.8206
+      }
+    },
+    {
+      "tradeNumber": 4,
+      "entryPrice": 0.007157,
+      "entryTime": "2024-03-03T08:00:00.000Z",
+      "exitPrice": 0.007222,
+      "exitTime": "2024-03-05T16:00:00.000Z",
+      "gain": "2.57",
+      "signalType": "Buy",
+      "entryContext": {
+        "volumeRatio": 2.593,
+        "fvgType": null,
+        "deltaPer": -0.8386638237384386,
+        "stdDev9Pct": 2.7945,
+        "stdDev12Pct": 2.7945,
+        "stdDev26Pct": 4.1917,
+        "stdDev52Pct": 9.7806
+      },
+      "exitContext": {
+        "volumeRatio": 1.566,
+        "fvgType": "bearish",
+        "deltaPer": -3.460773997427796,
+        "stdDev9Pct": 5.5386,
+        "stdDev12Pct": 4.154,
+        "stdDev26Pct": 8.3079,
+        "stdDev52Pct": 9.6926
+      }
+    },
+    {
+      "tradeNumber": 5,
+      "entryPrice": 0.00796,
+      "entryTime": "2024-03-24T08:00:00.000Z",
+      "exitPrice": 0.015044,
+      "exitTime": "2024-04-01T04:00:00.000Z",
+      "gain": "251.76",
+      "signalType": "Buy",
+      "entryContext": {
+        "volumeRatio": 1.688,
+        "fvgType": null,
+        "deltaPer": 1.3233524929822236,
+        "stdDev9Pct": 3.7688,
+        "stdDev12Pct": 3.7688,
+        "stdDev26Pct": 3.7688,
+        "stdDev52Pct": 5.0251
+      },
+      "exitContext": {
+        "volumeRatio": 0.246,
+        "fvgType": null,
+        "deltaPer": 3.885494155154083,
+        "stdDev9Pct": 7.9766,
+        "stdDev12Pct": 9.306,
+        "stdDev26Pct": 15.9532,
+        "stdDev52Pct": 15.9532
+      }
+    },
+    {
+      "tradeNumber": 6,
+      "entryPrice": 0.012607,
+      "entryTime": "2024-05-18T16:00:00.000Z",
+      "exitPrice": 0.014285,
+      "exitTime": "2024-05-23T20:00:00.000Z",
+      "gain": "46.03",
+      "signalType": "Buy",
+      "entryContext": {
+        "volumeRatio": 1.669,
+        "fvgType": null,
+        "deltaPer": -2.423140996516741,
+        "stdDev9Pct": 3.1728,
+        "stdDev12Pct": 4.7593,
+        "stdDev26Pct": 7.1389,
+        "stdDev52Pct": 6.3457
+      },
+      "exitContext": {
+        "volumeRatio": 1.398,
+        "fvgType": null,
+        "deltaPer": -1.74605298367674,
+        "stdDev9Pct": 2.1001,
+        "stdDev12Pct": 2.8001,
+        "stdDev26Pct": 6.3003,
+        "stdDev52Pct": 10.5005
+      }
+    },
+    {
+      "tradeNumber": 7,
+      "entryPrice": 0.010927,
+      "entryTime": "2024-06-10T00:00:00.000Z",
+      "exitPrice": 0.008413,
+      "exitTime": "2024-06-29T20:00:00.000Z",
+      "gain": "82.21",
+      "signalType": "Sell",
+      "entryContext": {
+        "volumeRatio": 0.362,
+        "fvgType": "bullish",
+        "deltaPer": 2.2335495829471723,
+        "stdDev9Pct": 0.9152,
+        "stdDev12Pct": 2.7455,
+        "stdDev26Pct": 4.5758,
+        "stdDev52Pct": 6.4061
+      },
+      "exitContext": {
+        "volumeRatio": 1.405,
+        "fvgType": null,
+        "deltaPer": 1.0941445232656102,
+        "stdDev9Pct": null,
+        "stdDev12Pct": 1.1886,
+        "stdDev26Pct": 2.3773,
+        "stdDev52Pct": 3.5659
+      }
+    },
+    {
+      "tradeNumber": 8,
+      "entryPrice": 0.006849,
+      "entryTime": "2024-08-13T12:00:00.000Z",
+      "exitPrice": 0.007124,
+      "exitTime": "2024-08-17T20:00:00.000Z",
+      "gain": "15.11",
+      "signalType": "Buy",
+      "entryContext": {
+        "volumeRatio": 2.263,
+        "fvgType": null,
+        "deltaPer": -2.076277426005014,
+        "stdDev9Pct": 2.9201,
+        "stdDev12Pct": 4.3802,
+        "stdDev26Pct": 5.8403,
+        "stdDev52Pct": 10.2205
+      },
+      "exitContext": {
+        "volumeRatio": 0.664,
+        "fvgType": null,
+        "deltaPer": 0.8211808013591942,
+        "stdDev9Pct": 1.4037,
+        "stdDev12Pct": 1.4037,
+        "stdDev26Pct": 1.4037,
+        "stdDev52Pct": 7.0185
+      }
+    },
+    {
+      "tradeNumber": 9,
+      "entryPrice": 0.005895,
+      "entryTime": "2024-08-29T04:00:00.000Z",
+      "exitPrice": 0.005659,
+      "exitTime": "2024-09-06T12:00:00.000Z",
+      "gain": "15.22",
+      "signalType": "Sell",
+      "entryContext": {
+        "volumeRatio": 0.615,
+        "fvgType": null,
+        "deltaPer": 0.6225142659519357,
+        "stdDev9Pct": null,
+        "stdDev12Pct": 1.6964,
+        "stdDev26Pct": 8.4818,
+        "stdDev52Pct": 6.7854
+      },
+      "exitContext": {
+        "volumeRatio": 1.472,
+        "fvgType": null,
+        "deltaPer": 0.8095740936289891,
+        "stdDev9Pct": null,
+        "stdDev12Pct": 1.7671,
+        "stdDev26Pct": 1.7671,
+        "stdDev52Pct": 3.5342
+      }
+    },
+    {
+      "tradeNumber": 10,
+      "entryPrice": 0.006799,
+      "entryTime": "2024-09-09T16:00:00.000Z",
+      "exitPrice": 0.008744,
+      "exitTime": "2024-09-15T20:00:00.000Z",
+      "gain": "109.85",
+      "signalType": "Buy",
+      "entryContext": {
+        "volumeRatio": 1.977,
+        "fvgType": "bullish",
+        "deltaPer": 0.9404872032069116,
+        "stdDev9Pct": 2.9416,
+        "stdDev12Pct": 1.4708,
+        "stdDev26Pct": 5.8832,
+        "stdDev52Pct": 5.8832
+      },
+      "exitContext": {
+        "volumeRatio": 1.055,
+        "fvgType": null,
+        "deltaPer": -0.9159126020746134,
+        "stdDev9Pct": 3.4309,
+        "stdDev12Pct": 3.4309,
+        "stdDev26Pct": 6.8618,
+        "stdDev52Pct": 14.8673
+      }
+    },
+    {
+      "tradeNumber": 11,
+      "entryPrice": 0.009779,
+      "entryTime": "2024-09-26T16:00:00.000Z",
+      "exitPrice": 0.009816,
+      "exitTime": "2024-09-29T04:00:00.000Z",
+      "gain": "1.56",
+      "signalType": "Buy",
+      "entryContext": {
+        "volumeRatio": 1.769,
+        "fvgType": "bullish",
+        "deltaPer": 4.113924050632899,
+        "stdDev9Pct": 3.0678,
+        "stdDev12Pct": 2.0452,
+        "stdDev26Pct": 4.0904,
+        "stdDev52Pct": 4.0904
+      },
+      "exitContext": {
+        "volumeRatio": 1.734,
+        "fvgType": null,
+        "deltaPer": -3.461187214611864,
+        "stdDev9Pct": 3.0562,
+        "stdDev12Pct": 3.0562,
+        "stdDev26Pct": 7.1312,
+        "stdDev52Pct": 7.1312
+      }
+    },
+    {
+      "tradeNumber": 12,
+      "entryPrice": 0.006838,
+      "entryTime": "2024-11-29T16:00:00.000Z",
+      "exitPrice": 0.007044,
+      "exitTime": "2024-12-02T08:00:00.000Z",
+      "gain": "12.41",
+      "signalType": "Buy",
+      "entryContext": {
+        "volumeRatio": 1.675,
+        "fvgType": null,
+        "deltaPer": -0.0591540964211722,
+        "stdDev9Pct": 1.4624,
+        "stdDev12Pct": 1.4624,
+        "stdDev26Pct": 5.8497,
+        "stdDev52Pct": 7.3121
+      },
+      "exitContext": {
+        "volumeRatio": 3.907,
+        "fvgType": null,
+        "deltaPer": -2.2216274089935806,
+        "stdDev9Pct": 2.8393,
+        "stdDev12Pct": 2.8393,
+        "stdDev26Pct": 5.6786,
+        "stdDev52Pct": 11.3572
+      }
+    },
+    {
+      "tradeNumber": 13,
+      "entryPrice": 0.006474,
+      "entryTime": "2024-12-15T00:00:00.000Z",
+      "exitPrice": 0.005079,
+      "exitTime": "2024-12-23T12:00:00.000Z",
+      "gain": "88.25",
+      "signalType": "Sell",
+      "entryContext": {
+        "volumeRatio": 1.632,
+        "fvgType": null,
+        "deltaPer": 0.10896637608966472,
+        "stdDev9Pct": null,
+        "stdDev12Pct": 1.5446,
+        "stdDev26Pct": 4.6339,
+        "stdDev52Pct": 9.2678
+      },
+      "exitContext": {
+        "volumeRatio": 1.046,
+        "fvgType": null,
+        "deltaPer": 0.6347946835945231,
+        "stdDev9Pct": null,
+        "stdDev12Pct": null,
+        "stdDev26Pct": 1.9689,
+        "stdDev52Pct": 9.8445
+      }
+    },
+    {
+      "tradeNumber": 14,
+      "entryPrice": 0.004809,
+      "entryTime": "2024-12-30T04:00:00.000Z",
+      "exitPrice": 0.002031,
+      "exitTime": "2025-02-14T08:00:00.000Z",
+      "gain": "249.33",
+      "signalType": "Sell",
+      "entryContext": {
+        "volumeRatio": 0.626,
+        "fvgType": null,
+        "deltaPer": 0.33698399326032835,
+        "stdDev9Pct": null,
+        "stdDev12Pct": 2.0794,
+        "stdDev26Pct": 4.1589,
+        "stdDev52Pct": 4.1589
+      },
+      "exitContext": {
+        "volumeRatio": 1.336,
+        "fvgType": null,
+        "deltaPer": -0.14388489208632924,
+        "stdDev9Pct": null,
+        "stdDev12Pct": null,
+        "stdDev26Pct": null,
+        "stdDev52Pct": 4.9237
+      }
+    },
+    {
+      "tradeNumber": 15,
+      "entryPrice": 0.001914,
+      "entryTime": "2025-02-19T00:00:00.000Z",
+      "exitPrice": 0.001805,
+      "exitTime": "2025-02-22T04:00:00.000Z",
+      "gain": "27.70",
+      "signalType": "Sell",
+      "entryContext": {
+        "volumeRatio": 0.852,
+        "fvgType": null,
+        "deltaPer": 1.586462189317814,
+        "stdDev9Pct": null,
+        "stdDev12Pct": null,
+        "stdDev26Pct": null,
+        "stdDev52Pct": null
+      },
+      "exitContext": {
+        "volumeRatio": 2.88,
+        "fvgType": null,
+        "deltaPer": 0,
+        "stdDev9Pct": null,
+        "stdDev12Pct": null,
+        "stdDev26Pct": 5.5402,
+        "stdDev52Pct": 5.5402
+      }
+    },
+    {
+      "tradeNumber": 16,
+      "entryPrice": 0.00208,
+      "entryTime": "2025-03-03T08:00:00.000Z",
+      "exitPrice": 0.00235,
+      "exitTime": "2025-03-08T08:00:00.000Z",
+      "gain": "64.05",
+      "signalType": "Buy",
+      "entryContext": {
+        "volumeRatio": 2.109,
+        "fvgType": null,
+        "deltaPer": 1.4427860696517385,
+        "stdDev9Pct": 9.6154,
+        "stdDev12Pct": 14.4231,
+        "stdDev26Pct": 9.6154,
+        "stdDev52Pct": 9.6154
+      },
+      "exitContext": {
+        "volumeRatio": 2.193,
+        "fvgType": "bearish",
+        "deltaPer": -0.9538950715421364,
+        "stdDev9Pct": 4.2553,
+        "stdDev12Pct": 4.2553,
+        "stdDev26Pct": 12.766,
+        "stdDev52Pct": 17.0213
+      }
+    },
+    {
+      "tradeNumber": 17,
+      "entryPrice": 0.003058,
+      "entryTime": "2025-03-22T16:00:00.000Z",
+      "exitPrice": 0.0031,
+      "exitTime": "2025-03-25T12:00:00.000Z",
+      "gain": "6.58",
+      "signalType": "Buy",
+      "entryContext": {
+        "volumeRatio": 2.707,
+        "fvgType": "bullish",
+        "deltaPer": 10.655437568656172,
+        "stdDev9Pct": 6.5402,
+        "stdDev12Pct": 6.5402,
+        "stdDev26Pct": 6.5402,
+        "stdDev52Pct": 9.8103
+      },
+      "exitContext": {
+        "volumeRatio": 2.136,
+        "fvgType": null,
+        "deltaPer": 0.8605341246290785,
+        "stdDev9Pct": 3.2258,
+        "stdDev12Pct": 6.4516,
+        "stdDev26Pct": 12.9032,
+        "stdDev52Pct": 16.129
+      }
+    }
+  ],
+  "losingTrades": [
+    {
+      "tradeNumber": 1,
+      "entryPrice": 0.002547,
+      "entryTime": "2023-12-31T08:00:00.000Z",
+      "exitPrice": 0.002371,
+      "exitTime": "2023-12-31T20:00:00.000Z",
+      "loss": "17.28",
+      "signalType": "Buy",
+      "entryContext": {
+        "volumeRatio": 3.017,
+        "fvgType": null,
+        "deltaPer": -0.15735641227380398,
+        "stdDev9Pct": null,
+        "stdDev12Pct": 3.9262,
+        "stdDev26Pct": 3.9262,
+        "stdDev52Pct": 7.8524
+      },
+      "exitContext": {
+        "volumeRatio": 2.725,
+        "fvgType": null,
+        "deltaPer": 1.0333863275039739,
+        "stdDev9Pct": 4.2176,
+        "stdDev12Pct": 4.2176,
+        "stdDev26Pct": 4.2176,
+        "stdDev52Pct": 8.4353
+      }
+    },
+    {
+      "tradeNumber": 2,
+      "entryPrice": 0.004162,
+      "entryTime": "2024-01-13T08:00:00.000Z",
+      "exitPrice": 0.004019,
+      "exitTime": "2024-01-13T16:00:00.000Z",
+      "loss": "8.95",
+      "signalType": "Buy",
+      "entryContext": {
+        "volumeRatio": 1.728,
+        "fvgType": null,
+        "deltaPer": 1.261217560029104,
+        "stdDev9Pct": 4.8054,
+        "stdDev12Pct": 4.8054,
+        "stdDev26Pct": 7.2081,
+        "stdDev52Pct": 16.8188
+      },
+      "exitContext": {
+        "volumeRatio": 1.387,
+        "fvgType": null,
+        "deltaPer": -1.4196342637151111,
+        "stdDev9Pct": 4.9764,
+        "stdDev12Pct": 4.9764,
+        "stdDev26Pct": 7.4645,
+        "stdDev52Pct": 14.9291
+      }
+    },
+    {
+      "tradeNumber": 3,
+      "entryPrice": 0.004385,
+      "entryTime": "2024-01-14T16:00:00.000Z",
+      "exitPrice": 0.00429,
+      "exitTime": "2024-01-15T12:00:00.000Z",
+      "loss": "5.59",
+      "signalType": "Buy",
+      "entryContext": {
+        "volumeRatio": 1.81,
+        "fvgType": "bullish",
+        "deltaPer": 10.195530726256983,
+        "stdDev9Pct": 4.561,
+        "stdDev12Pct": 4.561,
+        "stdDev26Pct": 6.8415,
+        "stdDev52Pct": 11.4025
+      },
+      "exitContext": {
+        "volumeRatio": 1.217,
+        "fvgType": null,
+        "deltaPer": 6.9019784172661875,
+        "stdDev9Pct": 4.662,
+        "stdDev12Pct": 4.662,
+        "stdDev26Pct": 4.662,
+        "stdDev52Pct": 9.324
+      }
+    },
+    {
+      "tradeNumber": 4,
+      "entryPrice": 0.003472,
+      "entryTime": "2024-02-02T04:00:00.000Z",
+      "exitPrice": 0.003577,
+      "exitTime": "2024-02-07T16:00:00.000Z",
+      "loss": "7.76",
+      "signalType": "Sell",
+      "entryContext": {
+        "volumeRatio": 0.805,
+        "fvgType": null,
+        "deltaPer": -0.5444126074498544,
+        "stdDev9Pct": null,
+        "stdDev12Pct": 2.8802,
+        "stdDev26Pct": 5.7604,
+        "stdDev52Pct": 5.7604
+      },
+      "exitContext": {
+        "volumeRatio": 1.519,
+        "fvgType": null,
+        "deltaPer": -0.05633802816902156,
+        "stdDev9Pct": null,
+        "stdDev12Pct": 2.7956,
+        "stdDev26Pct": 2.7956,
+        "stdDev52Pct": 2.7956
+      }
+    },
+    {
+      "tradeNumber": 5,
+      "entryPrice": 0.007113,
+      "entryTime": "2024-03-01T16:00:00.000Z",
+      "exitPrice": 0.007045,
+      "exitTime": "2024-03-02T08:00:00.000Z",
+      "loss": "2.71",
+      "signalType": "Buy",
+      "entryContext": {
+        "volumeRatio": 1.946,
+        "fvgType": null,
+        "deltaPer": 0.4011887072808338,
+        "stdDev9Pct": 2.8118,
+        "stdDev12Pct": 2.8118,
+        "stdDev26Pct": 4.2176,
+        "stdDev52Pct": 11.247
+      },
+      "exitContext": {
+        "volumeRatio": 0.316,
+        "fvgType": null,
+        "deltaPer": -4.209541627689432,
+        "stdDev9Pct": 4.2583,
+        "stdDev12Pct": 4.2583,
+        "stdDev26Pct": 4.2583,
+        "stdDev52Pct": 11.3556
+      }
+    },
+    {
+      "tradeNumber": 6,
+      "entryPrice": 0.007554,
+      "entryTime": "2024-03-23T16:00:00.000Z",
+      "exitPrice": 0.007468,
+      "exitTime": "2024-03-24T00:00:00.000Z",
+      "loss": "3.23",
+      "signalType": "Buy",
+      "entryContext": {
+        "volumeRatio": 2.512,
+        "fvgType": null,
+        "deltaPer": 7.281416924374476,
+        "stdDev9Pct": 2.6476,
+        "stdDev12Pct": 2.6476,
+        "stdDev26Pct": 3.9714,
+        "stdDev52Pct": 5.2952
+      },
+      "exitContext": {
+        "volumeRatio": 0.603,
+        "fvgType": null,
+        "deltaPer": -1.4032300767805161,
+        "stdDev9Pct": 2.6781,
+        "stdDev12Pct": 2.6781,
+        "stdDev26Pct": 2.6781,
+        "stdDev52Pct": 5.3562
+      }
+    },
+    {
+      "tradeNumber": 7,
+      "entryPrice": 0.012015,
+      "entryTime": "2024-05-31T12:00:00.000Z",
+      "exitPrice": 0.012019,
+      "exitTime": "2024-06-06T12:00:00.000Z",
+      "loss": "0.12",
+      "signalType": "Sell",
+      "entryContext": {
+        "volumeRatio": 1.476,
+        "fvgType": null,
+        "deltaPer": 2.421855359088252,
+        "stdDev9Pct": 0.8323,
+        "stdDev12Pct": 1.6646,
+        "stdDev26Pct": 6.6583,
+        "stdDev52Pct": 9.1552
+      },
+      "exitContext": {
+        "volumeRatio": 1.171,
+        "fvgType": null,
+        "deltaPer": 0.5838198498748863,
+        "stdDev9Pct": 0.832,
+        "stdDev12Pct": 1.664,
+        "stdDev26Pct": 4.1601,
+        "stdDev52Pct": 4.9921
+      }
+    },
+    {
+      "tradeNumber": 8,
+      "entryPrice": 0.007542,
+      "entryTime": "2024-07-17T08:00:00.000Z",
+      "exitPrice": 0.007427,
+      "exitTime": "2024-07-17T20:00:00.000Z",
+      "loss": "5.76",
+      "signalType": "Buy",
+      "entryContext": {
+        "volumeRatio": 1.896,
+        "fvgType": null,
+        "deltaPer": 0.2835051546391682,
+        "stdDev9Pct": 1.3259,
+        "stdDev12Pct": 2.6518,
+        "stdDev26Pct": 5.3036,
+        "stdDev52Pct": 3.9777
+      },
+      "exitContext": {
+        "volumeRatio": 1.106,
+        "fvgType": null,
+        "deltaPer": -0.7099658164606919,
+        "stdDev9Pct": 1.3464,
+        "stdDev12Pct": 1.3464,
+        "stdDev26Pct": 5.3858,
+        "stdDev52Pct": 4.0393
+      }
+    },
+    {
+      "tradeNumber": 9,
+      "entryPrice": 0.008471,
+      "entryTime": "2024-12-04T16:00:00.000Z",
+      "exitPrice": 0.008029,
+      "exitTime": "2024-12-07T20:00:00.000Z",
+      "loss": "21.65",
+      "signalType": "Buy",
+      "entryContext": {
+        "volumeRatio": 2.82,
+        "fvgType": null,
+        "deltaPer": 1.7098133654425016,
+        "stdDev9Pct": 4.722,
+        "stdDev12Pct": 5.9025,
+        "stdDev26Pct": 4.722,
+        "stdDev52Pct": 8.2635
+      },
+      "exitContext": {
+        "volumeRatio": 0.395,
+        "fvgType": null,
+        "deltaPer": -1.2210012210012138,
+        "stdDev9Pct": 1.2455,
+        "stdDev12Pct": 1.2455,
+        "stdDev26Pct": 3.7365,
+        "stdDev52Pct": 6.2274
+      }
+    },
+    {
+      "tradeNumber": 10,
+      "entryPrice": 0.001968,
+      "entryTime": "2025-02-15T16:00:00.000Z",
+      "exitPrice": 0.001977,
+      "exitTime": "2025-02-16T08:00:00.000Z",
+      "loss": "2.26",
+      "signalType": "Sell",
+      "entryContext": {
+        "volumeRatio": 0.434,
+        "fvgType": null,
+        "deltaPer": 0.3448275862068996,
+        "stdDev9Pct": null,
+        "stdDev12Pct": null,
+        "stdDev26Pct": null,
+        "stdDev52Pct": 5.0813
+      },
+      "exitContext": {
+        "volumeRatio": 1.057,
+        "fvgType": null,
+        "deltaPer": -0.6003001500750305,
+        "stdDev9Pct": null,
+        "stdDev12Pct": null,
+        "stdDev26Pct": null,
+        "stdDev52Pct": null
+      }
+    },
+    {
+      "tradeNumber": 11,
+      "entryPrice": 0.001958,
+      "entryTime": "2025-02-16T12:00:00.000Z",
+      "exitPrice": 0.002001,
+      "exitTime": "2025-02-16T20:00:00.000Z",
+      "loss": "10.84",
+      "signalType": "Sell",
+      "entryContext": {
+        "volumeRatio": 2.004,
+        "fvgType": null,
+        "deltaPer": -0.3528225806451644,
+        "stdDev9Pct": null,
+        "stdDev12Pct": null,
+        "stdDev26Pct": null,
+        "stdDev52Pct": null
+      },
+      "exitContext": {
+        "volumeRatio": 1.232,
+        "fvgType": null,
+        "deltaPer": 0.6116207951070264,
+        "stdDev9Pct": null,
+        "stdDev12Pct": null,
+        "stdDev26Pct": null,
+        "stdDev52Pct": null
+      }
+    },
+    {
+      "tradeNumber": 12,
+      "entryPrice": 0.001984,
+      "entryTime": "2025-02-17T00:00:00.000Z",
+      "exitPrice": 0.002052,
+      "exitTime": "2025-02-17T12:00:00.000Z",
+      "loss": "16.82",
+      "signalType": "Sell",
+      "entryContext": {
+        "volumeRatio": 0.502,
+        "fvgType": null,
+        "deltaPer": 1.470588235294137,
+        "stdDev9Pct": null,
+        "stdDev12Pct": null,
+        "stdDev26Pct": null,
+        "stdDev52Pct": null
+      },
+      "exitContext": {
+        "volumeRatio": 3.204,
+        "fvgType": null,
+        "deltaPer": 2.635580334515964,
+        "stdDev9Pct": null,
+        "stdDev12Pct": null,
+        "stdDev26Pct": null,
+        "stdDev52Pct": null
+      }
+    },
+    {
+      "tradeNumber": 13,
+      "entryPrice": 0.001789,
+      "entryTime": "2025-03-12T12:00:00.000Z",
+      "exitPrice": 0.002134,
+      "exitTime": "2025-03-15T16:00:00.000Z",
+      "loss": "98.24",
+      "signalType": "Sell",
+      "entryContext": {
+        "volumeRatio": 0.611,
+        "fvgType": null,
+        "deltaPer": 3.187250996015927,
+        "stdDev9Pct": null,
+        "stdDev12Pct": 5.5897,
+        "stdDev26Pct": 16.7691,
+        "stdDev52Pct": 16.7691
+      },
+      "exitContext": {
+        "volumeRatio": 2.419,
+        "fvgType": null,
+        "deltaPer": 1.3278388278388251,
+        "stdDev9Pct": null,
+        "stdDev12Pct": 4.686,
+        "stdDev26Pct": 9.3721,
+        "stdDev52Pct": 14.0581
+      }
+    },
+    {
+      "tradeNumber": 14,
+      "entryPrice": 0.002617,
+      "entryTime": "2025-03-19T04:00:00.000Z",
+      "exitPrice": 0.002499,
+      "exitTime": "2025-03-20T16:00:00.000Z",
+      "loss": "21.86",
+      "signalType": "Buy",
+      "entryContext": {
+        "volumeRatio": 2.333,
+        "fvgType": null,
+        "deltaPer": 2.962085308056871,
+        "stdDev9Pct": 3.8212,
+        "stdDev12Pct": 3.8212,
+        "stdDev26Pct": 7.6423,
+        "stdDev52Pct": 7.6423
+      },
+      "exitContext": {
+        "volumeRatio": 2.359,
+        "fvgType": "bearish",
+        "deltaPer": -1.9075568598679367,
+        "stdDev9Pct": 4.0016,
+        "stdDev12Pct": 4.0016,
+        "stdDev26Pct": 8.0032,
+        "stdDev52Pct": 12.0048
+      }
+    }
+  ]
+}

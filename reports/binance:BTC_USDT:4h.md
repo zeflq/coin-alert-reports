@@ -1,69 +1,132 @@
-# binance:BTC/USDT:4h Backtest Report - 04/03/2025 02:09
+# binance:BTC/USDT:4h Backtest Report - 26/03/2025 02:53
 ## Summary
 
-- Total trades: 47
-- Net Profit: $1114.98 (111.50%)
-- Loss Rate: 42.55%
-- Win Rate: 57.45%
-- Profit Factor: 3.80
-- Max Drawdown: $69.65 (6.97%)
-- Average Gain per Trade: $23.72
-- Current Capital: $2114.98
+- Total trades: 110
+- Net Profit: $2032.65 (203.26%)
+- Loss Rate: 50.91%
+- Win Rate: 49.09%
+- Profit Factor: 3.35
+- Max Drawdown: $167.30 (16.73%)
+- Average Gain per Trade: $18.48
+- Current Capital: $3032.65
 
 ## Winning Trades
 
-| Trade # | Signal | Entry Price | Entry Time | Exit Price | Exit Time | Gain |
-|---------|--------|-------------|------------|------------|-----------|------|
-| 1 | Buy | 13609.24 | 27/10/2020 13:00 | 17927.98 | 26/11/2020 01:00 | $79.33 |
-| 2 | Buy | 20661.37 | 16/12/2020 13:00 | 34375.34 | 11/01/2021 05:00 | $179.10 |
-| 3 | Buy | 37129.4 | 29/01/2021 13:00 | 53236.69 | 22/02/2021 13:00 | $136.48 |
-| 4 | Buy | 38283.98 | 26/07/2021 02:00 | 39302 | 04/08/2021 14:00 | $9.27 |
-| 5 | Buy | 47488.08 | 01/10/2021 10:00 | 60328.81 | 26/10/2021 22:00 | $94.92 |
-| 6 | Sell | 46504 | 30/12/2021 01:00 | 38465.65 | 21/01/2022 01:00 | $62.65 |
-| 7 | Buy | 42215.94 | 22/03/2022 05:00 | 46532 | 01/04/2022 14:00 | $37.20 |
-| 8 | Sell | 43754.57 | 06/04/2022 18:00 | 38270.03 | 26/04/2022 18:00 | $46.78 |
-| 9 | Sell | 34480.24 | 08/05/2022 02:00 | 30126.72 | 01/06/2022 18:00 | $48.60 |
-| 10 | Sell | 28980.02 | 10/06/2022 18:00 | 19369.94 | 13/10/2022 18:00 | $131.66 |
-| 11 | Buy | 20273.14 | 25/10/2022 18:00 | 20401.53 | 31/10/2022 13:00 | $2.72 |
-| 12 | Buy | 18224.68 | 12/01/2023 01:00 | 23603.36 | 03/02/2023 13:00 | $127.10 |
-| 13 | Buy | 29637.34 | 10/04/2023 22:00 | 30380.59 | 18/04/2023 10:00 | $11.60 |
-| 14 | Sell | 27934.09 | 08/05/2023 10:00 | 27304.4 | 23/05/2023 06:00 | $10.49 |
-| 15 | Buy | 27982.77 | 20/06/2023 18:00 | 30372.36 | 30/06/2023 18:00 | $39.23 |
-| 16 | Buy | 27100 | 28/09/2023 18:00 | 27555 | 05/10/2023 14:00 | $7.58 |
-| 17 | Buy | 28468.85 | 16/10/2023 18:00 | 34291.94 | 01/11/2023 13:00 | $92.79 |
-| 18 | Buy | 35399.12 | 07/11/2023 21:00 | 36147.09 | 14/11/2023 13:00 | $10.08 |
-| 19 | Buy | 38580.17 | 01/12/2023 09:00 | 42132.51 | 11/12/2023 05:00 | $44.14 |
-| 20 | Buy | 44963.04 | 08/01/2024 13:00 | 45546.4 | 10/01/2024 13:00 | $6.26 |
-| 21 | Buy | 44349.6 | 07/02/2024 21:00 | 52101.11 | 20/02/2024 17:00 | $84.66 |
-| 22 | Buy | 54487.11 | 26/02/2024 17:00 | 63724.01 | 05/03/2024 21:00 | $85.70 |
-| 23 | Sell | 63924.51 | 13/04/2024 22:00 | 57898.47 | 01/05/2024 10:00 | $49.03 |
-| 24 | Buy | 64725.11 | 15/05/2024 14:00 | 68374.08 | 28/05/2024 14:00 | $30.02 |
-| 25 | Buy | 62647.87 | 15/07/2024 02:00 | 64093.59 | 25/07/2024 02:00 | $12.37 |
-| 26 | Buy | 64620.87 | 14/10/2024 06:00 | 66223.44 | 23/10/2024 14:00 | $13.20 |
-| 27 | Buy | 86102.21 | 11/11/2024 17:00 | 96000.56 | 25/11/2024 13:00 | $60.91 |
+| Trade # | Signal | Entry Price | Entry Time | Exit Price | Exit Time | Gain | Entry Context | Exit Context |
+|---------|--------|-------------|------------|------------|-----------|------|----------------|---------------|
+| 1 | Buy | 7540.9 | 06/01/2020 01:00 | 8412.77 | 24/01/2020 09:00 | $28.58 | Volume Ratio: 2.03, StdDev9Pct: 0.8522, StdDev12Pct: 0.9202, StdDev26Pct: 2.1171, StdDev52Pct: 1.6511 | Volume Ratio: 1.801, StdDev9Pct: 1.1216, StdDev12Pct: 1.5973, StdDev26Pct: 1.5719, StdDev52Pct: 2.1194 |
+| 2 | Buy | 9024.58 | 28/01/2020 13:00 | 9385.59 | 03/02/2020 01:00 | $10.18 | Volume Ratio: 2.531, StdDev9Pct: 1.6969, StdDev12Pct: 2.0731, StdDev26Pct: 2.9101, StdDev52Pct: 2.293 | Volume Ratio: 2.195, StdDev9Pct: 0.5768, StdDev12Pct: 0.5412, StdDev26Pct: 0.6629, StdDev52Pct: 3.9738 |
+| 3 | Sell | 9397.47 | 25/02/2020 13:00 | 8758.35 | 02/03/2020 09:00 | $17.45 | Volume Ratio: 2.032, StdDev9Pct: 1.2466, StdDev12Pct: 1.5539, StdDev26Pct: 1.2663, StdDev52Pct: 1.8375 | Volume Ratio: 1.311, StdDev9Pct: 0.7764, StdDev12Pct: 0.7709, StdDev26Pct: 1.249, StdDev52Pct: 5.5057 |
+| 4 | Buy | 6803.25 | 02/04/2020 18:00 | 7112.2 | 22/04/2020 14:00 | $11.85 | Volume Ratio: 3.942, StdDev9Pct: 3.3151, StdDev12Pct: 3.0914, StdDev26Pct: 3.443, StdDev52Pct: 3.4687 | Volume Ratio: 2.015, StdDev9Pct: 1.2628, StdDev12Pct: 1.2251, StdDev26Pct: 2.2081, StdDev52Pct: 2.2263 |
+| 5 | Buy | 7530.1 | 23/04/2020 14:00 | 9150.74 | 27/05/2020 10:00 | $56.81 | Volume Ratio: 4.423, StdDev9Pct: 2.1306, StdDev12Pct: 2.3813, StdDev26Pct: 2.232, StdDev52Pct: 2.2978 | Volume Ratio: 2.25, StdDev9Pct: 1.237, StdDev12Pct: 1.1264, StdDev26Pct: 1.928, StdDev52Pct: 3.4508 |
+| 6 | Buy | 9315.29 | 21/07/2020 06:00 | 11480.79 | 11/08/2020 14:00 | $62.46 | Volume Ratio: 2.861, StdDev9Pct: 0.5074, StdDev12Pct: 0.5188, StdDev26Pct: 0.4104, StdDev52Pct: 0.5977 | Volume Ratio: 2.285, StdDev9Pct: 1.1947, StdDev12Pct: 1.2713, StdDev26Pct: 1.1746, StdDev52Pct: 2.1063 |
+| 7 | Sell | 11419.41 | 25/08/2020 14:00 | 11294 | 25/08/2020 18:00 | $3.12 | Volume Ratio: 2.396, StdDev9Pct: 0.9958, StdDev12Pct: 0.8659, StdDev26Pct: 0.8004, StdDev52Pct: 1.9331 | Volume Ratio: 2.25, StdDev9Pct: 1.4258, StdDev12Pct: 1.2804, StdDev26Pct: 0.9872, StdDev52Pct: 2.0426 |
+| 8 | Buy | 10896.96 | 08/10/2020 14:00 | 11320.76 | 14/10/2020 14:00 | $10.70 | Volume Ratio: 3.656, StdDev9Pct: 0.8104, StdDev12Pct: 0.7623, StdDev26Pct: 0.6837, StdDev52Pct: 0.9133 | Volume Ratio: 2.042, StdDev9Pct: 0.4046, StdDev12Pct: 0.5697, StdDev26Pct: 0.6532, StdDev52Pct: 2.9804 |
+| 9 | Buy | 11800 | 19/10/2020 14:00 | 13004.5 | 26/10/2020 17:00 | $28.36 | Volume Ratio: 2.926, StdDev9Pct: 0.9529, StdDev12Pct: 0.9611, StdDev26Pct: 0.8701, StdDev52Pct: 0.7444 | Volume Ratio: 2.218, StdDev9Pct: 0.4778, StdDev12Pct: 0.7186, StdDev26Pct: 0.6975, StdDev52Pct: 4.8797 |
+| 10 | Buy | 13449.8 | 27/10/2020 09:00 | 18762.96 | 08/12/2020 09:00 | $112.54 | Volume Ratio: 2.478, StdDev9Pct: 0.9787, StdDev12Pct: 0.9289, StdDev26Pct: 0.9115, StdDev52Pct: 4.3245 | Volume Ratio: 1.847, StdDev9Pct: 0.8931, StdDev12Pct: 0.8443, StdDev26Pct: 0.9387, StdDev52Pct: 1.5001 |
+| 11 | Buy | 19739.78 | 16/12/2020 09:00 | 57854.32 | 29/03/2021 10:00 | $604.42 | Volume Ratio: 2.052, StdDev9Pct: 0.7337, StdDev12Pct: 0.7923, StdDev26Pct: 1.69, StdDev52Pct: 2.7232 | Volume Ratio: 1.896, StdDev9Pct: 1.2492, StdDev12Pct: 1.2041, StdDev26Pct: 3.0159, StdDev52Pct: 3.1707 |
+| 12 | Buy | 38283.98 | 26/07/2021 02:00 | 39302 | 04/08/2021 14:00 | $12.26 | Volume Ratio: 5.117, StdDev9Pct: 3.3538, StdDev12Pct: 3.1166, StdDev26Pct: 3.6214, StdDev52Pct: 4.3556 | Volume Ratio: 1.965, StdDev9Pct: 1.0664, StdDev12Pct: 1.234, StdDev26Pct: 3.6452, StdDev52Pct: 3.4363 |
+| 13 | Buy | 46569.99 | 14/08/2021 10:00 | 48150 | 01/09/2021 18:00 | $15.74 | Volume Ratio: 2.032, StdDev9Pct: 1.8893, StdDev12Pct: 2.6807, StdDev26Pct: 2.0098, StdDev52Pct: 3.7354 | Volume Ratio: 2.474, StdDev9Pct: 0.7621, StdDev12Pct: 0.7638, StdDev26Pct: 1.2519, StdDev52Pct: 1.5503 |
+| 14 | Buy | 50550.44 | 03/09/2021 14:00 | 62913.3 | 02/11/2021 09:00 | $114.44 | Volume Ratio: 2.012, StdDev9Pct: 0.8502, StdDev12Pct: 1.2019, StdDev26Pct: 2.2013, StdDev52Pct: 1.9343 | Volume Ratio: 1.938, StdDev9Pct: 1.2505, StdDev12Pct: 1.2084, StdDev26Pct: 1.0862, StdDev52Pct: 1.9422 |
+| 15 | Sell | 46052.36 | 04/01/2022 17:00 | 41733.93 | 11/01/2022 13:00 | $45.19 | Volume Ratio: 2.214, StdDev9Pct: 0.7939, StdDev12Pct: 0.8306, StdDev26Pct: 1.1161, StdDev52Pct: 2.8976 | Volume Ratio: 1.143, StdDev9Pct: 0.9489, StdDev12Pct: 1.033, StdDev26Pct: 0.9163, StdDev52Pct: 5.1648 |
+| 16 | Sell | 38827.94 | 21/02/2022 13:00 | 38782.91 | 23/02/2022 09:00 | $0.57 | Volume Ratio: 2.762, StdDev9Pct: 1.1871, StdDev12Pct: 1.8824, StdDev26Pct: 3.0644, StdDev52Pct: 5.1206 | Volume Ratio: 1.311, StdDev9Pct: 1.6995, StdDev12Pct: 1.7837, StdDev26Pct: 2.6206, StdDev52Pct: 6.339 |
+| 17 | Buy | 42215.94 | 22/03/2022 05:00 | 45763.72 | 05/04/2022 14:00 | $40.40 | Volume Ratio: 2.942, StdDev9Pct: 1.1295, StdDev12Pct: 0.9891, StdDev26Pct: 1.2629, StdDev52Pct: 2.8662 | Volume Ratio: 2.342, StdDev9Pct: 0.8619, StdDev12Pct: 0.7747, StdDev26Pct: 0.8211, StdDev52Pct: 1.609 |
+| 18 | Sell | 41158.18 | 13/04/2022 14:00 | 40370.46 | 17/04/2022 18:00 | $9.39 | Volume Ratio: 2.294, StdDev9Pct: 1.1395, StdDev12Pct: 1.0882, StdDev26Pct: 3.087, StdDev52Pct: 4.7616 | Volume Ratio: 1.015, StdDev9Pct: 0.3084, StdDev12Pct: 0.3183, StdDev26Pct: 1.0237, StdDev52Pct: 2.5942 |
+| 19 | Sell | 38976.76 | 25/04/2022 14:00 | 38563.94 | 26/04/2022 14:00 | $5.16 | Volume Ratio: 2.271, StdDev9Pct: 1.0996, StdDev12Pct: 1.051, StdDev26Pct: 2.3031, StdDev52Pct: 2.4556 | Volume Ratio: 2.914, StdDev9Pct: 2.2845, StdDev12Pct: 2.006, StdDev26Pct: 1.4631, StdDev52Pct: 2.5529 |
+| 20 | Sell | 30977.61 | 11/05/2022 14:00 | 29676.56 | 16/05/2022 14:00 | $20.53 | Volume Ratio: 3.936, StdDev9Pct: 1.0169, StdDev12Pct: 1.4326, StdDev26Pct: 6.1235, StdDev52Pct: 9.4596 | Volume Ratio: 1.182, StdDev9Pct: 1.6732, StdDev12Pct: 1.667, StdDev26Pct: 2.265, StdDev52Pct: 5.9979 |
+| 21 | Sell | 29454.53 | 10/06/2022 14:00 | 20801.79 | 20/06/2022 10:00 | $144.62 | Volume Ratio: 2.149, StdDev9Pct: 0.9215, StdDev12Pct: 0.8235, StdDev26Pct: 2.0523, StdDev52Pct: 1.9224 | Volume Ratio: 1.284, StdDev9Pct: 4.0071, StdDev12Pct: 4.258, StdDev26Pct: 4.5639, StdDev52Pct: 12.8673 |
+| 22 | Buy | 22245.93 | 18/07/2022 06:00 | 22988.25 | 05/08/2022 14:00 | $17.57 | Volume Ratio: 2.06, StdDev9Pct: 1.7051, StdDev12Pct: 1.762, StdDev26Pct: 2.2499, StdDev52Pct: 2.9949 | Volume Ratio: 1.908, StdDev9Pct: 1.1915, StdDev12Pct: 1.2233, StdDev26Pct: 1.0474, StdDev52Pct: 1.9307 |
+| 23 | Sell | 19790.01 | 06/09/2022 02:00 | 18745.85 | 07/09/2022 02:00 | $26.80 | Volume Ratio: 2.14, StdDev9Pct: 0.4598, StdDev12Pct: 0.4801, StdDev26Pct: 0.8373, StdDev52Pct: 1.0961 | Volume Ratio: 1.443, StdDev9Pct: 2.6258, StdDev12Pct: 2.3775, StdDev26Pct: 1.812, StdDev52Pct: 1.853 |
+| 24 | Sell | 19147.6 | 11/10/2022 14:00 | 18958.59 | 13/10/2022 14:00 | $5.08 | Volume Ratio: 2.218, StdDev9Pct: 0.5886, StdDev12Pct: 0.7706, StdDev26Pct: 1.0116, StdDev52Pct: 1.9943 | Volume Ratio: 4.251, StdDev9Pct: 0.6446, StdDev12Pct: 0.5636, StdDev26Pct: 0.9811, StdDev52Pct: 2.2098 |
+| 25 | Buy | 19748.48 | 25/10/2022 14:00 | 20401.53 | 31/10/2022 13:00 | $17.06 | Volume Ratio: 2.703, StdDev9Pct: 0.6832, StdDev12Pct: 0.6633, StdDev26Pct: 0.7988, StdDev52Pct: 0.8711 | Volume Ratio: 2.08, StdDev9Pct: 0.637, StdDev12Pct: 0.6581, StdDev26Pct: 1.0178, StdDev52Pct: 2.9737 |
+| 26 | Buy | 18224.68 | 12/01/2023 01:00 | 23385.99 | 01/02/2023 17:00 | $146.49 | Volume Ratio: 2.34, StdDev9Pct: 1.5473, StdDev12Pct: 1.5462, StdDev26Pct: 1.6144, StdDev52Pct: 1.6957 | Volume Ratio: 1.807, StdDev9Pct: 0.5672, StdDev12Pct: 0.6589, StdDev26Pct: 1.253, StdDev52Pct: 1.1772 |
+| 27 | Sell | 22140.8 | 08/03/2023 13:00 | 21997.11 | 12/03/2023 21:00 | $3.59 | Volume Ratio: 2.415, StdDev9Pct: 0.6126, StdDev12Pct: 0.6944, StdDev26Pct: 0.6003, StdDev52Pct: 2.4945 | Volume Ratio: 1.7, StdDev9Pct: 2.4528, StdDev12Pct: 2.3564, StdDev26Pct: 3.3152, StdDev52Pct: 4.4803 |
+| 28 | Buy | 23981.72 | 13/03/2023 13:00 | 26903.62 | 27/03/2023 14:00 | $67.48 | Volume Ratio: 2.586, StdDev9Pct: 4.8807, StdDev12Pct: 4.8243, StdDev26Pct: 4.2512, StdDev52Pct: 4.3198 | Volume Ratio: 3.127, StdDev9Pct: 1.1625, StdDev12Pct: 1.1665, StdDev26Pct: 1.3942, StdDev52Pct: 1.5571 |
+| 29 | Buy | 28439.38 | 10/04/2023 14:00 | 30380.59 | 18/04/2023 10:00 | $38.72 | Volume Ratio: 2.091, StdDev9Pct: 0.6898, StdDev12Pct: 0.6774, StdDev26Pct: 0.5588, StdDev52Pct: 0.7083 | Volume Ratio: 1.816, StdDev9Pct: 1.0363, StdDev12Pct: 1.2607, StdDev26Pct: 1.3023, StdDev52Pct: 2.0605 |
+| 30 | Sell | 28153.2 | 10/05/2023 14:00 | 27232.8 | 15/05/2023 02:00 | $18.86 | Volume Ratio: 2.713, StdDev9Pct: 0.6752, StdDev12Pct: 0.6735, StdDev26Pct: 2.0597, StdDev52Pct: 2.194 | Volume Ratio: 1.167, StdDev9Pct: 0.51, StdDev12Pct: 0.4785, StdDev26Pct: 1.2337, StdDev52Pct: 2.7669 |
+| 31 | Buy | 26682.28 | 19/06/2023 18:00 | 30498.74 | 27/06/2023 14:00 | $82.91 | Volume Ratio: 2.845, StdDev9Pct: 0.4055, StdDev12Pct: 0.366, StdDev26Pct: 1.7457, StdDev52Pct: 1.7174 | Volume Ratio: 1.803, StdDev9Pct: 0.4461, StdDev12Pct: 0.4042, StdDev26Pct: 0.7559, StdDev52Pct: 4.9193 |
+| 32 | Sell | 28730.51 | 16/08/2023 22:00 | 26056 | 22/08/2023 22:00 | $54.66 | Volume Ratio: 2.239, StdDev9Pct: 0.5489, StdDev12Pct: 0.6102, StdDev26Pct: 0.5753, StdDev52Pct: 0.6822 | Volume Ratio: 2.036, StdDev9Pct: 0.4033, StdDev12Pct: 0.3579, StdDev26Pct: 0.3726, StdDev52Pct: 5.66 |
+| 33 | Buy | 27849.06 | 16/10/2023 06:00 | 34291.94 | 01/11/2023 13:00 | $134.77 | Volume Ratio: 4.701, StdDev9Pct: 1.0952, StdDev12Pct: 0.9905, StdDev26Pct: 0.8037, StdDev52Pct: 1.5838 | Volume Ratio: 4.41, StdDev9Pct: 0.4134, StdDev12Pct: 0.3988, StdDev26Pct: 0.5548, StdDev52Pct: 0.8248 |
+| 34 | Buy | 35421.43 | 01/11/2023 21:00 | 35453.98 | 07/11/2023 17:00 | $0.57 | Volume Ratio: 2.837, StdDev9Pct: 0.9191, StdDev12Pct: 0.8899, StdDev26Pct: 0.783, StdDev52Pct: 0.9169 | Volume Ratio: 2.845, StdDev9Pct: 0.6634, StdDev12Pct: 0.5804, StdDev26Pct: 0.6128, StdDev52Pct: 0.9822 |
+| 35 | Buy | 35399.12 | 07/11/2023 21:00 | 36147.09 | 14/11/2023 13:00 | $13.02 | Volume Ratio: 2.271, StdDev9Pct: 0.7277, StdDev12Pct: 0.6609, StdDev26Pct: 0.6577, StdDev52Pct: 0.9848 | Volume Ratio: 2.216, StdDev9Pct: 0.7504, StdDev12Pct: 0.8306, StdDev26Pct: 0.7956, StdDev52Pct: 2.3844 |
+| 36 | Buy | 38580.17 | 01/12/2023 09:00 | 42774.12 | 26/12/2023 05:00 | $66.59 | Volume Ratio: 2.151, StdDev9Pct: 0.738, StdDev12Pct: 0.6519, StdDev26Pct: 1.1702, StdDev52Pct: 0.9661 | Volume Ratio: 2.15, StdDev9Pct: 0.6236, StdDev12Pct: 0.6611, StdDev26Pct: 0.6506, StdDev52Pct: 1.9216 |
+| 37 | Buy | 45402.38 | 02/01/2024 01:00 | 45546.4 | 10/01/2024 13:00 | $2.00 | Volume Ratio: 3.524, StdDev9Pct: 2.1718, StdDev12Pct: 1.9778, StdDev26Pct: 1.6207, StdDev52Pct: 1.4211 | Volume Ratio: 2.275, StdDev9Pct: 1.1692, StdDev12Pct: 1.2142, StdDev26Pct: 2.7768, StdDev52Pct: 2.6927 |
+| 38 | Sell | 43252.67 | 16/01/2024 13:00 | 42482.79 | 17/01/2024 13:00 | $11.21 | Volume Ratio: 2.358, StdDev9Pct: 0.6157, StdDev12Pct: 0.8566, StdDev26Pct: 1.7335, StdDev52Pct: 4.1124 | Volume Ratio: 1.638, StdDev9Pct: 0.579, StdDev12Pct: 0.565, StdDev26Pct: 0.7203, StdDev52Pct: 4.1975 |
+| 39 | Buy | 43615.47 | 07/02/2024 17:00 | 52101.11 | 20/02/2024 17:00 | $122.85 | Volume Ratio: 2.68, StdDev9Pct: 0.5643, StdDev12Pct: 0.5646, StdDev26Pct: 0.5218, StdDev52Pct: 0.758 | Volume Ratio: 1.965, StdDev9Pct: 0.49, StdDev12Pct: 0.4912, StdDev26Pct: 0.5846, StdDev52Pct: 2.2212 |
+| 40 | Buy | 52842.32 | 26/02/2024 13:00 | 68237.15 | 01/04/2024 14:00 | $192.91 | Volume Ratio: 2.839, StdDev9Pct: 0.868, StdDev12Pct: 0.7559, StdDev26Pct: 0.7857, StdDev52Pct: 0.8403 | Volume Ratio: 2.66, StdDev9Pct: 1.2737, StdDev12Pct: 1.1294, StdDev26Pct: 0.9665, StdDev52Pct: 2.5224 |
+| 41 | Sell | 61204.42 | 30/04/2024 10:00 | 60672 | 30/04/2024 22:00 | $6.08 | Volume Ratio: 3.558, StdDev9Pct: 1.257, StdDev12Pct: 1.2152, StdDev26Pct: 1.1073, StdDev52Pct: 2.2964 | Volume Ratio: 1.501, StdDev9Pct: 2.4994, StdDev12Pct: 2.1719, StdDev26Pct: 1.8732, StdDev52Pct: 2.7559 |
+| 42 | Buy | 64725.11 | 15/05/2024 14:00 | 70373.85 | 27/05/2024 14:00 | $61.13 | Volume Ratio: 5.002, StdDev9Pct: 1.4205, StdDev12Pct: 1.3188, StdDev26Pct: 1.4005, StdDev52Pct: 1.4761 | Volume Ratio: 1.859, StdDev9Pct: 0.7868, StdDev12Pct: 0.692, StdDev26Pct: 1.0622, StdDev52Pct: 1.8539 |
+| 43 | Sell | 66691.99 | 17/06/2024 18:00 | 66504.33 | 17/06/2024 22:00 | $1.98 | Volume Ratio: 2.509, StdDev9Pct: 0.651, StdDev12Pct: 0.5679, StdDev26Pct: 0.5791, StdDev52Pct: 2.0088 | Volume Ratio: 1.009, StdDev9Pct: 0.6537, StdDev12Pct: 0.5763, StdDev26Pct: 0.5814, StdDev52Pct: 1.9827 |
+| 44 | Sell | 65500 | 18/06/2024 02:00 | 65175.32 | 18/06/2024 22:00 | $3.50 | Volume Ratio: 3.432, StdDev9Pct: 0.7223, StdDev12Pct: 0.6753, StdDev26Pct: 0.6345, StdDev52Pct: 2.0027 | Volume Ratio: 1.204, StdDev9Pct: 1.0743, StdDev12Pct: 1.017, StdDev26Pct: 0.9063, StdDev52Pct: 1.8923 |
+| 45 | Buy | 62647.87 | 15/07/2024 02:00 | 64093.59 | 25/07/2024 02:00 | $16.30 | Volume Ratio: 2.269, StdDev9Pct: 1.7156, StdDev12Pct: 1.8599, StdDev26Pct: 2.1411, StdDev52Pct: 2.0989 | Volume Ratio: 2.335, StdDev9Pct: 1.0018, StdDev12Pct: 1.0661, StdDev26Pct: 1.4431, StdDev52Pct: 1.9977 |
+| 46 | Sell | 63416.01 | 02/08/2024 14:00 | 59428.03 | 08/08/2024 14:00 | $44.68 | Volume Ratio: 3.038, StdDev9Pct: 1.1562, StdDev12Pct: 1.128, StdDev26Pct: 2.3862, StdDev52Pct: 2.7307 | Volume Ratio: 1.211, StdDev9Pct: 2.1623, StdDev12Pct: 1.9053, StdDev26Pct: 3.6232, StdDev52Pct: 6.9869 |
+| 47 | Buy | 61570 | 21/08/2024 18:00 | 61709.13 | 27/08/2024 14:00 | $1.63 | Volume Ratio: 2.107, StdDev9Pct: 1.2963, StdDev12Pct: 1.3125, StdDev26Pct: 1.2353, StdDev52Pct: 1.5339 | Volume Ratio: 2.274, StdDev9Pct: 1.0209, StdDev12Pct: 1.1988, StdDev26Pct: 1.4868, StdDev52Pct: 3.2389 |
+| 48 | Sell | 55976.01 | 05/09/2024 14:00 | 55386 | 09/09/2024 14:00 | $7.58 | Volume Ratio: 2.399, StdDev9Pct: 1.2695, StdDev12Pct: 1.2259, StdDev26Pct: 1.5284, StdDev52Pct: 1.7382 | Volume Ratio: 1.395, StdDev9Pct: 0.9132, StdDev12Pct: 0.8606, StdDev26Pct: 1.6301, StdDev52Pct: 3.1673 |
+| 49 | Buy | 59667.38 | 13/09/2024 14:00 | 63159.99 | 24/09/2024 14:00 | $42.18 | Volume Ratio: 2.176, StdDev9Pct: 0.9565, StdDev12Pct: 0.9506, StdDev26Pct: 1.5284, StdDev52Pct: 2.572 | Volume Ratio: 1.913, StdDev9Pct: 0.2639, StdDev12Pct: 0.4984, StdDev26Pct: 0.5299, StdDev52Pct: 3.0659 |
+| 50 | Buy | 64620.87 | 14/10/2024 06:00 | 67282.27 | 22/10/2024 14:00 | $29.63 | Volume Ratio: 2.143, StdDev9Pct: 1.1776, StdDev12Pct: 1.0241, StdDev26Pct: 1.8742, StdDev52Pct: 1.5329 | Volume Ratio: 1.821, StdDev9Pct: 0.6375, StdDev12Pct: 0.9663, StdDev26Pct: 0.7745, StdDev52Pct: 1.6796 |
+| 51 | Buy | 68494.2 | 28/10/2024 13:00 | 69639.99 | 05/11/2024 13:00 | $12.16 | Volume Ratio: 2.441, StdDev9Pct: 0.766, StdDev12Pct: 0.8157, StdDev26Pct: 0.826, StdDev52Pct: 0.9923 | Volume Ratio: 2.25, StdDev9Pct: 0.756, StdDev12Pct: 0.6808, StdDev26Pct: 0.8658, StdDev52Pct: 2.1649 |
+| 52 | Buy | 74272.01 | 06/11/2024 09:00 | 96000.56 | 25/11/2024 13:00 | $213.56 | Volume Ratio: 2.359, StdDev9Pct: 3.2317, StdDev12Pct: 3.1773, StdDev26Pct: 2.3406, StdDev52Pct: 2.3127 | Volume Ratio: 2.116, StdDev9Pct: 0.9785, StdDev12Pct: 0.8863, StdDev26Pct: 0.9274, StdDev52Pct: 3.4197 |
+| 53 | Buy | 101891.93 | 20/01/2025 01:00 | 105263.52 | 23/01/2025 13:00 | $24.54 | Volume Ratio: 2.506, StdDev9Pct: 1.4569, StdDev12Pct: 1.3297, StdDev26Pct: 2.1383, StdDev52Pct: 4.2074 | Volume Ratio: 2.135, StdDev9Pct: 1.1268, StdDev12Pct: 1.4049, StdDev26Pct: 1.6804, StdDev52Pct: 2.5002 |
+| 54 | Sell | 94323.95 | 24/02/2025 13:00 | 87427.99 | 02/03/2025 13:00 | $54.43 | Volume Ratio: 2.533, StdDev9Pct: 0.6336, StdDev12Pct: 0.6647, StdDev26Pct: 1.1419, StdDev52Pct: 1.0088 | Volume Ratio: 1.219, StdDev9Pct: 0.973, StdDev12Pct: 1.0086, StdDev26Pct: 2.3948, StdDev52Pct: 5.9411 |
 
 
 ## Losing Trades
 
-| Trade # | Signal | Entry Price | Entry Time | Exit Price | Exit Time | Loss |
-|---------|--------|-------------|------------|------------|-----------|------|
-| 1 | Buy | 65199.99 | 08/11/2021 01:00 | 60907.41 | 16/11/2021 01:00 | $24.67 |
-| 2 | Buy | 51109.99 | 23/12/2021 17:00 | 47689.46 | 28/12/2021 17:00 | $24.67 |
-| 3 | Sell | 35406.76 | 22/01/2022 09:00 | 40727.91 | 04/02/2022 17:00 | $56.82 |
-| 4 | Buy | 28065 | 28/05/2023 22:00 | 26007.53 | 05/06/2023 14:00 | $34.30 |
-| 5 | Buy | 30846.55 | 06/07/2023 10:00 | 30411.57 | 10/07/2023 22:00 | $6.62 |
-| 6 | Buy | 30917.48 | 13/07/2023 14:00 | 29810.18 | 20/07/2023 14:00 | $16.74 |
-| 7 | Sell | 29093.78 | 24/07/2023 14:00 | 29705.99 | 01/08/2023 22:00 | $9.75 |
-| 8 | Buy | 27831.33 | 29/08/2023 18:00 | 27201.63 | 30/08/2023 14:00 | $10.43 |
-| 9 | Sell | 25020.66 | 11/09/2023 18:00 | 25822.71 | 12/09/2023 06:00 | $14.69 |
-| 10 | Buy | 27269.42 | 18/09/2023 14:00 | 26584.02 | 21/09/2023 14:00 | $11.43 |
-| 11 | Buy | 45402.38 | 02/01/2024 01:00 | 42596.67 | 03/01/2024 17:00 | $30.31 |
-| 12 | Buy | 72404 | 08/04/2024 10:00 | 68657.32 | 10/04/2024 14:00 | $27.27 |
-| 13 | Buy | 70423.6 | 04/06/2024 18:00 | 68464 | 11/06/2024 02:00 | $15.02 |
-| 14 | Buy | 63628.84 | 23/08/2024 18:00 | 61709.13 | 27/08/2024 14:00 | $16.27 |
-| 15 | Buy | 65229.03 | 26/09/2024 14:00 | 63819.44 | 30/09/2024 10:00 | $11.57 |
-| 16 | Buy | 72536.16 | 29/10/2024 17:00 | 69387.77 | 01/11/2024 13:00 | $23.25 |
-| 17 | Buy | 102964 | 05/12/2024 01:00 | 97276.47 | 09/12/2024 21:00 | $30.11 |
-| 18 | Buy | 104582.28 | 16/12/2024 01:00 | 102817.82 | 18/12/2024 17:00 | $9.07 |
-| 19 | Sell | 93738.2 | 29/12/2024 21:00 | 96451.98 | 07/01/2025 17:00 | $15.50 |
-| 20 | Sell | 95333.01 | 03/02/2025 05:00 | 97205.06 | 12/02/2025 17:00 | $10.43 |
+| Trade # | Signal | Entry Price | Entry Time | Exit Price | Exit Time | Loss | Entry Context | Exit Context |
+|---------|--------|-------------|------------|------------|-----------|------|----------------|---------------|
+| 1 | Buy | 7398.35 | 22/12/2019 17:00 | 7301.38 | 26/12/2019 17:00 | $3.28 | Volume Ratio: 2.359, StdDev9Pct: 1.0658, StdDev12Pct: 0.9447, StdDev26Pct: 1.2773, StdDev52Pct: 2.4289 | Volume Ratio: 1.975, StdDev9Pct: 0.4737, StdDev12Pct: 0.4489, StdDev26Pct: 1.7625, StdDev52Pct: 2.4987 |
+| 2 | Sell | 6983.27 | 02/01/2020 17:00 | 7203.21 | 03/01/2020 05:00 | $7.85 | Volume Ratio: 2.857, StdDev9Pct: 1.0507, StdDev12Pct: 0.9854, StdDev26Pct: 1.4562, StdDev52Pct: 1.1789 | Volume Ratio: 3.746, StdDev9Pct: 1.2851, StdDev12Pct: 1.3634, StdDev26Pct: 1.415, StdDev52Pct: 1.3706 |
+| 3 | Buy | 9786.88 | 06/02/2020 13:00 | 9745.57 | 16/02/2020 17:00 | $1.08 | Volume Ratio: 2.647, StdDev9Pct: 1.5139, StdDev12Pct: 2.1, StdDev26Pct: 1.7413, StdDev52Pct: 1.3213 | Volume Ratio: 1.95, StdDev9Pct: 1.2687, StdDev12Pct: 1.8689, StdDev26Pct: 1.8537, StdDev52Pct: 2.0757 |
+| 4 | Buy | 10200.77 | 01/06/2020 22:00 | 9500.03 | 07/06/2020 14:00 | $19.11 | Volume Ratio: 4.276, StdDev9Pct: 2.1164, StdDev12Pct: 1.8362, StdDev26Pct: 1.4616, StdDev52Pct: 3.2415 | Volume Ratio: 2.354, StdDev9Pct: 0.615, StdDev12Pct: 0.598, StdDev26Pct: 0.8422, StdDev52Pct: 1.79 |
+| 5 | Sell | 9123.3 | 15/06/2020 06:00 | 9418.57 | 15/06/2020 18:00 | $8.85 | Volume Ratio: 2.952, StdDev9Pct: 1.2919, StdDev12Pct: 1.1586, StdDev26Pct: 1.8137, StdDev52Pct: 2.0725 | Volume Ratio: 1.527, StdDev9Pct: 1.314, StdDev12Pct: 1.315, StdDev26Pct: 1.1104, StdDev52Pct: 2.1467 |
+| 6 | Sell | 8938.04 | 27/06/2020 18:00 | 9097.38 | 29/06/2020 10:00 | $4.83 | Volume Ratio: 2.01, StdDev9Pct: 0.8048, StdDev12Pct: 0.8353, StdDev26Pct: 2.0945, StdDev52Pct: 1.9267 | Volume Ratio: 1.034, StdDev9Pct: 0.5823, StdDev12Pct: 0.7144, StdDev26Pct: 0.9359, StdDev52Pct: 2.2414 |
+| 7 | Buy | 9411.72 | 08/07/2020 14:00 | 9232.95 | 14/07/2020 10:00 | $5.13 | Volume Ratio: 2.783, StdDev9Pct: 0.5104, StdDev12Pct: 0.4685, StdDev26Pct: 1.2006, StdDev52Pct: 1.0113 | Volume Ratio: 2.003, StdDev9Pct: 0.4022, StdDev12Pct: 0.4106, StdDev26Pct: 0.4247, StdDev52Pct: 0.8001 |
+| 8 | Sell | 11323.22 | 27/08/2020 14:00 | 11529.63 | 28/08/2020 14:00 | $5.20 | Volume Ratio: 2.327, StdDev9Pct: 0.5122, StdDev12Pct: 0.5311, StdDev26Pct: 1.4638, StdDev52Pct: 1.4826 | Volume Ratio: 1.154, StdDev9Pct: 0.7103, StdDev12Pct: 0.6738, StdDev26Pct: 1.3816, StdDev52Pct: 1.5053 |
+| 9 | Buy | 11923.74 | 01/09/2020 06:00 | 10469.82 | 14/09/2020 10:00 | $34.60 | Volume Ratio: 2.045, StdDev9Pct: 0.6905, StdDev12Pct: 0.6899, StdDev26Pct: 1.0107, StdDev52Pct: 1.3092 | Volume Ratio: 1.807, StdDev9Pct: 0.9275, StdDev12Pct: 0.8363, StdDev26Pct: 0.7972, StdDev52Pct: 1.1995 |
+| 10 | Sell | 30687.96 | 19/07/2021 14:00 | 31534.11 | 21/07/2021 10:00 | $12.80 | Volume Ratio: 2.764, StdDev9Pct: 1.074, StdDev12Pct: 1.1381, StdDev26Pct: 1.0322, StdDev52Pct: 3.0049 | Volume Ratio: 1.81, StdDev9Pct: 1.9406, StdDev12Pct: 1.9197, StdDev26Pct: 2.5973, StdDev52Pct: 3.0134 |
+| 11 | Buy | 65199.99 | 08/11/2021 01:00 | 64288.16 | 15/11/2021 13:00 | $6.94 | Volume Ratio: 3, StdDev9Pct: 1.7631, StdDev12Pct: 1.9281, StdDev26Pct: 1.5047, StdDev52Pct: 1.5717 | Volume Ratio: 1.837, StdDev9Pct: 1.0468, StdDev12Pct: 1.0135, StdDev26Pct: 1.0451, StdDev52Pct: 2.5056 |
+| 12 | Sell | 58100.04 | 18/11/2021 13:00 | 59430.04 | 20/11/2021 17:00 | $11.33 | Volume Ratio: 2.116, StdDev9Pct: 1.2331, StdDev12Pct: 1.1576, StdDev26Pct: 4.1777, StdDev52Pct: 4.2038 | Volume Ratio: 1.041, StdDev9Pct: 1.0935, StdDev12Pct: 1.7232, StdDev26Pct: 2.2763, StdDev52Pct: 4.9122 |
+| 13 | Buy | 51109.99 | 23/12/2021 17:00 | 46925.35 | 04/01/2022 13:00 | $40.28 | Volume Ratio: 2.454, StdDev9Pct: 1.6006, StdDev12Pct: 1.4043, StdDev26Pct: 2.3744, StdDev52Pct: 2.1552 | Volume Ratio: 1.884, StdDev9Pct: 0.7047, StdDev12Pct: 0.6993, StdDev26Pct: 1.1169, StdDev52Pct: 2.9703 |
+| 14 | Buy | 43643.69 | 01/03/2022 13:00 | 39160 | 16/03/2022 01:00 | $50.68 | Volume Ratio: 2.453, StdDev9Pct: 4.7269, StdDev12Pct: 5.7478, StdDev26Pct: 4.362, StdDev52Pct: 4.4468 | Volume Ratio: 3.928, StdDev9Pct: 1.0747, StdDev12Pct: 0.9396, StdDev26Pct: 1.0022, StdDev52Pct: 2.7996 |
+| 15 | Sell | 38919.85 | 18/04/2022 06:00 | 40680.68 | 18/04/2022 18:00 | $22.31 | Volume Ratio: 2.884, StdDev9Pct: 1.2401, StdDev12Pct: 1.1054, StdDev26Pct: 1.1995, StdDev52Pct: 2.6479 | Volume Ratio: 3.79, StdDev9Pct: 1.5695, StdDev12Pct: 1.4434, StdDev26Pct: 1.1019, StdDev52Pct: 2.3406 |
+| 16 | Sell | 28998.4 | 26/05/2022 10:00 | 29393.1 | 26/05/2022 14:00 | $6.72 | Volume Ratio: 2.4, StdDev9Pct: 1.0522, StdDev12Pct: 0.9638, StdDev26Pct: 1.4322, StdDev52Pct: 1.5571 | Volume Ratio: 4.302, StdDev9Pct: 0.7982, StdDev12Pct: 0.9486, StdDev26Pct: 1.4172, StdDev52Pct: 1.4934 |
+| 17 | Sell | 19456.2 | 13/07/2022 14:00 | 19738.13 | 14/07/2022 10:00 | $7.66 | Volume Ratio: 3.096, StdDev9Pct: 1.0082, StdDev12Pct: 1.5934, StdDev26Pct: 3.8673, StdDev52Pct: 4.0945 | Volume Ratio: 1.037, StdDev9Pct: 1.3773, StdDev12Pct: 1.4772, StdDev26Pct: 2.8699, StdDev52Pct: 4.0172 |
+| 18 | Buy | 24343.68 | 11/08/2022 14:00 | 20140.63 | 31/08/2022 14:00 | $91.67 | Volume Ratio: 2.475, StdDev9Pct: 2.2281, StdDev12Pct: 2.5234, StdDev26Pct: 2.1224, StdDev52Pct: 1.9905 | Volume Ratio: 2.074, StdDev9Pct: 1.2353, StdDev12Pct: 1.0972, StdDev26Pct: 1.0701, StdDev52Pct: 3.4701 |
+| 19 | Sell | 16073.75 | 21/11/2022 01:00 | 16241.3 | 22/11/2022 13:00 | $5.42 | Volume Ratio: 2.11, StdDev9Pct: 1.2695, StdDev12Pct: 1.1451, StdDev26Pct: 0.9255, StdDev52Pct: 1.1974 | Volume Ratio: 2.123, StdDev9Pct: 1.1364, StdDev12Pct: 1.5644, StdDev26Pct: 2.2284, StdDev52Pct: 2.0425 |
+| 20 | Sell | 16727.24 | 20/12/2022 01:00 | 16918.83 | 20/12/2022 13:00 | $5.94 | Volume Ratio: 2.004, StdDev9Pct: 0.5909, StdDev12Pct: 0.5322, StdDev26Pct: 1.4956, StdDev52Pct: 2.6334 | Volume Ratio: 1.76, StdDev9Pct: 0.7957, StdDev12Pct: 0.6958, StdDev26Pct: 0.6888, StdDev52Pct: 2.6327 |
+| 21 | Buy | 16862.02 | 04/01/2023 01:00 | 16840.82 | 06/01/2023 13:00 | $0.65 | Volume Ratio: 2.007, StdDev9Pct: 0.358, StdDev12Pct: 0.314, StdDev26Pct: 0.4952, StdDev52Pct: 0.6376 | Volume Ratio: 1.89, StdDev9Pct: 0.2048, StdDev12Pct: 0.1852, StdDev26Pct: 0.4239, StdDev52Pct: 0.7141 |
+| 22 | Sell | 23091.9 | 07/02/2023 17:00 | 23240.46 | 07/02/2023 21:00 | $3.56 | Volume Ratio: 2.374, StdDev9Pct: 0.419, StdDev12Pct: 0.3733, StdDev26Pct: 1.0286, StdDev52Pct: 1.3455 | Volume Ratio: 1.032, StdDev9Pct: 0.5644, StdDev12Pct: 0.5217, StdDev26Pct: 0.9479, StdDev52Pct: 1.3135 |
+| 23 | Buy | 28489.18 | 30/03/2023 02:00 | 27800 | 03/04/2023 22:00 | $13.81 | Volume Ratio: 2.289, StdDev9Pct: 1.7104, StdDev12Pct: 2.1403, StdDev26Pct: 1.7949, StdDev52Pct: 1.7452 | Volume Ratio: 2.043, StdDev9Pct: 0.565, StdDev12Pct: 0.7988, StdDev26Pct: 0.8933, StdDev52Pct: 1.8001 |
+| 24 | Sell | 26734.01 | 18/05/2023 18:00 | 26883.65 | 19/05/2023 14:00 | $3.26 | Volume Ratio: 2.886, StdDev9Pct: 1.1491, StdDev12Pct: 1.0414, StdDev26Pct: 0.8704, StdDev52Pct: 1.4043 | Volume Ratio: 1.66, StdDev9Pct: 0.8805, StdDev12Pct: 1, StdDev26Pct: 0.9065, StdDev52Pct: 1.124 |
+| 25 | Sell | 25651.09 | 10/06/2023 06:00 | 25750 | 10/06/2023 18:00 | $2.24 | Volume Ratio: 3.669, StdDev9Pct: 1.0437, StdDev12Pct: 0.9838, StdDev26Pct: 1.5495, StdDev52Pct: 1.8942 | Volume Ratio: 1.752, StdDev9Pct: 1.5145, StdDev12Pct: 1.455, StdDev26Pct: 1.553, StdDev52Pct: 2.0673 |
+| 26 | Sell | 25759.54 | 13/06/2023 14:00 | 25874.59 | 14/06/2023 18:00 | $2.59 | Volume Ratio: 2.512, StdDev9Pct: 0.5463, StdDev12Pct: 0.5113, StdDev26Pct: 1.0754, StdDev52Pct: 1.6988 | Volume Ratio: 1.509, StdDev9Pct: 0.4247, StdDev12Pct: 0.4134, StdDev26Pct: 0.493, StdDev52Pct: 1.5549 |
+| 27 | Buy | 30765.09 | 30/06/2023 06:00 | 30372.36 | 30/06/2023 18:00 | $7.66 | Volume Ratio: 2.26, StdDev9Pct: 0.7459, StdDev12Pct: 0.7367, StdDev26Pct: 0.6315, StdDev52Pct: 0.9313 | Volume Ratio: 2.278, StdDev9Pct: 0.7827, StdDev12Pct: 0.8707, StdDev26Pct: 0.7406, StdDev52Pct: 0.9509 |
+| 28 | Buy | 30846.55 | 06/07/2023 10:00 | 30411.57 | 10/07/2023 22:00 | $8.44 | Volume Ratio: 3.74, StdDev9Pct: 0.6401, StdDev12Pct: 0.6482, StdDev26Pct: 0.8204, StdDev52Pct: 0.889 | Volume Ratio: 2.929, StdDev9Pct: 0.6797, StdDev12Pct: 0.5917, StdDev26Pct: 0.5387, StdDev52Pct: 1.08 |
+| 29 | Buy | 30917.48 | 13/07/2023 14:00 | 30284.9 | 20/07/2023 10:00 | $12.20 | Volume Ratio: 3.096, StdDev9Pct: 0.6959, StdDev12Pct: 0.6093, StdDev26Pct: 0.6856, StdDev52Pct: 0.7551 | Volume Ratio: 1.801, StdDev9Pct: 0.3834, StdDev12Pct: 0.4749, StdDev26Pct: 0.5687, StdDev52Pct: 1.4234 |
+| 30 | Sell | 29269.99 | 24/07/2023 10:00 | 29387.99 | 28/07/2023 14:00 | $2.39 | Volume Ratio: 3.184, StdDev9Pct: 0.7852, StdDev12Pct: 0.6841, StdDev26Pct: 0.6083, StdDev52Pct: 0.6977 | Volume Ratio: 1.526, StdDev9Pct: 0.397, StdDev12Pct: 0.3759, StdDev26Pct: 0.3688, StdDev52Pct: 1.1894 |
+| 31 | Sell | 28835 | 01/08/2023 02:00 | 29274.41 | 01/08/2023 18:00 | $9.03 | Volume Ratio: 2.783, StdDev9Pct: 0.581, StdDev12Pct: 0.5186, StdDev26Pct: 0.3935, StdDev52Pct: 0.7906 | Volume Ratio: 2.467, StdDev9Pct: 0.6652, StdDev12Pct: 0.6983, StdDev26Pct: 0.5502, StdDev52Pct: 0.5392 |
+| 32 | Sell | 28858.44 | 07/08/2023 14:00 | 29154.91 | 07/08/2023 18:00 | $6.07 | Volume Ratio: 2.582, StdDev9Pct: 0.2792, StdDev12Pct: 0.242, StdDev26Pct: 0.3079, StdDev52Pct: 0.6339 | Volume Ratio: 3.119, StdDev9Pct: 0.2928, StdDev12Pct: 0.2546, StdDev26Pct: 0.3053, StdDev52Pct: 0.6245 |
+| 33 | Buy | 29761.7 | 09/08/2023 14:00 | 29399.91 | 14/08/2023 02:00 | $7.16 | Volume Ratio: 2.613, StdDev9Pct: 0.7432, StdDev12Pct: 0.9502, StdDev26Pct: 1.0504, StdDev52Pct: 0.9161 | Volume Ratio: 3.219, StdDev9Pct: 0.1314, StdDev12Pct: 0.1248, StdDev26Pct: 0.1978, StdDev52Pct: 0.7923 |
+| 34 | Buy | 27831.33 | 29/08/2023 18:00 | 26922.01 | 31/08/2023 14:00 | $19.63 | Volume Ratio: 5.456, StdDev9Pct: 2.4017, StdDev12Pct: 2.1645, StdDev26Pct: 1.5449, StdDev52Pct: 1.2033 | Volume Ratio: 1.932, StdDev9Pct: 0.5003, StdDev12Pct: 0.8572, StdDev26Pct: 2.4869, StdDev52Pct: 2.1117 |
+| 35 | Sell | 25689.54 | 06/09/2023 18:00 | 25779.35 | 07/09/2023 14:00 | $2.08 | Volume Ratio: 3.573, StdDev9Pct: 0.2401, StdDev12Pct: 0.2381, StdDev26Pct: 0.4177, StdDev52Pct: 2.5845 | Volume Ratio: 1.413, StdDev9Pct: 0.253, StdDev12Pct: 0.2414, StdDev26Pct: 0.4098, StdDev52Pct: 2.2153 |
+| 36 | Sell | 25115.97 | 11/09/2023 14:00 | 25797.97 | 12/09/2023 02:00 | $16.17 | Volume Ratio: 5.015, StdDev9Pct: 0.8735, StdDev12Pct: 0.814, StdDev26Pct: 0.8393, StdDev52Pct: 0.6689 | Volume Ratio: 2.101, StdDev9Pct: 1.2499, StdDev12Pct: 1.1712, StdDev26Pct: 1.1325, StdDev52Pct: 0.8495 |
+| 37 | Buy | 27196.98 | 18/09/2023 10:00 | 26584.02 | 21/09/2023 14:00 | $13.33 | Volume Ratio: 2.861, StdDev9Pct: 0.7682, StdDev12Pct: 0.687, StdDev26Pct: 0.5853, StdDev52Pct: 1.6158 | Volume Ratio: 2.445, StdDev9Pct: 0.7041, StdDev12Pct: 0.6922, StdDev26Pct: 1.0002, StdDev52Pct: 1.3314 |
+| 38 | Buy | 27100 | 28/09/2023 18:00 | 26888.57 | 29/09/2023 14:00 | $4.59 | Volume Ratio: 3.096, StdDev9Pct: 1.0863, StdDev12Pct: 1.0741, StdDev26Pct: 0.897, StdDev52Pct: 1.0647 | Volume Ratio: 1.873, StdDev9Pct: 0.9013, StdDev12Pct: 1.1932, StdDev26Pct: 1.2577, StdDev52Pct: 1.0212 |
+| 39 | Buy | 27992.57 | 01/10/2023 22:00 | 27555 | 05/10/2023 14:00 | $9.17 | Volume Ratio: 2.495, StdDev9Pct: 1.0628, StdDev12Pct: 0.9965, StdDev26Pct: 1.1981, StdDev52Pct: 1.3885 | Volume Ratio: 2.313, StdDev9Pct: 0.4069, StdDev12Pct: 0.5098, StdDev26Pct: 1.1424, StdDev52Pct: 1.8848 |
+| 40 | Sell | 26779.46 | 11/10/2023 14:00 | 27154.15 | 15/10/2023 22:00 | $8.18 | Volume Ratio: 2.275, StdDev9Pct: 0.9832, StdDev12Pct: 1.0227, StdDev26Pct: 1.2442, StdDev52Pct: 1.014 | Volume Ratio: 1.905, StdDev9Pct: 0.3586, StdDev12Pct: 0.3212, StdDev26Pct: 0.361, StdDev52Pct: 1.6744 |
+| 41 | Buy | 37569.23 | 20/11/2023 17:00 | 37289.98 | 22/11/2023 17:00 | $4.61 | Volume Ratio: 2.215, StdDev9Pct: 0.9577, StdDev12Pct: 1.0309, StdDev26Pct: 1.1378, StdDev52Pct: 1.4929 | Volume Ratio: 1.863, StdDev9Pct: 1.2336, StdDev12Pct: 1.3751, StdDev26Pct: 1.1926, StdDev52Pct: 1.604 |
+| 42 | Buy | 38221.11 | 24/11/2023 13:00 | 36751.02 | 27/11/2023 13:00 | $23.79 | Volume Ratio: 2.065, StdDev9Pct: 0.8797, StdDev12Pct: 0.7769, StdDev26Pct: 1.3065, StdDev52Pct: 1.3854 | Volume Ratio: 1.924, StdDev9Pct: 0.8027, StdDev12Pct: 0.8623, StdDev26Pct: 0.8606, StdDev52Pct: 1.3085 |
+| 43 | Sell | 41022.32 | 18/01/2024 17:00 | 41289.52 | 26/01/2024 09:00 | $4.12 | Volume Ratio: 2.877, StdDev9Pct: 1.2834, StdDev12Pct: 1.2167, StdDev26Pct: 1.0734, StdDev52Pct: 3.9321 | Volume Ratio: 1.575, StdDev9Pct: 1.0014, StdDev12Pct: 0.8997, StdDev26Pct: 1.2851, StdDev52Pct: 2.4517 |
+| 44 | Buy | 72404 | 08/04/2024 10:00 | 68657.32 | 10/04/2024 14:00 | $36.76 | Volume Ratio: 3.527, StdDev9Pct: 1.3823, StdDev12Pct: 1.4906, StdDev26Pct: 1.8565, StdDev52Pct: 2.4927 | Volume Ratio: 2.638, StdDev9Pct: 0.9586, StdDev12Pct: 1.5899, StdDev26Pct: 1.7603, StdDev52Pct: 2.7378 |
+| 45 | Sell | 63039.07 | 29/04/2024 14:00 | 63866 | 29/04/2024 22:00 | $9.20 | Volume Ratio: 2.037, StdDev9Pct: 0.9578, StdDev12Pct: 0.9344, StdDev26Pct: 1.0519, StdDev52Pct: 2.0751 | Volume Ratio: 1.02, StdDev9Pct: 0.9067, StdDev12Pct: 0.9651, StdDev26Pct: 1.0321, StdDev52Pct: 2.0717 |
+| 46 | Buy | 70445 | 04/06/2024 14:00 | 68464 | 11/06/2024 02:00 | $20.13 | Volume Ratio: 3.012, StdDev9Pct: 0.6779, StdDev12Pct: 1.0055, StdDev26Pct: 1.0996, StdDev52Pct: 1.0243 | Volume Ratio: 2.583, StdDev9Pct: 0.5982, StdDev12Pct: 0.525, StdDev26Pct: 1.0726, StdDev52Pct: 1.4641 |
+| 47 | Sell | 67570.18 | 11/06/2024 06:00 | 69734 | 12/06/2024 14:00 | $22.76 | Volume Ratio: 2.42, StdDev9Pct: 1.0569, StdDev12Pct: 0.9395, StdDev26Pct: 1.2075, StdDev52Pct: 1.5153 | Volume Ratio: 3.775, StdDev9Pct: 1.2706, StdDev12Pct: 1.5375, StdDev26Pct: 1.5363, StdDev52Pct: 1.8733 |
+| 48 | Sell | 58094.99 | 30/08/2024 14:00 | 59132.13 | 02/09/2024 22:00 | $12.89 | Volume Ratio: 2.138, StdDev9Pct: 1.1834, StdDev12Pct: 1.0711, StdDev26Pct: 3.0721, StdDev52Pct: 3.4876 | Volume Ratio: 1.018, StdDev9Pct: 0.9142, StdDev12Pct: 0.8131, StdDev26Pct: 0.9454, StdDev52Pct: 3.5834 |
+| 49 | Buy | 65229.03 | 26/09/2024 14:00 | 63819.44 | 30/09/2024 10:00 | $15.80 | Volume Ratio: 3.284, StdDev9Pct: 0.9378, StdDev12Pct: 0.8811, StdDev26Pct: 0.8729, StdDev52Pct: 1.7514 | Volume Ratio: 2.456, StdDev9Pct: 1.1017, StdDev12Pct: 1.0123, StdDev26Pct: 0.9853, StdDev52Pct: 1.7014 |
+| 50 | Sell | 59727.28 | 10/10/2024 18:00 | 62259.05 | 11/10/2024 14:00 | $30.83 | Volume Ratio: 2.607, StdDev9Pct: 1.2489, StdDev12Pct: 1.3886, StdDev26Pct: 1.6564, StdDev52Pct: 1.4694 | Volume Ratio: 1.944, StdDev9Pct: 1.0556, StdDev12Pct: 0.9235, StdDev26Pct: 1.599, StdDev52Pct: 1.4298 |
+| 51 | Buy | 102964 | 05/12/2024 01:00 | 95658.79 | 10/12/2024 13:00 | $55.58 | Volume Ratio: 5.63, StdDev9Pct: 2.1872, StdDev12Pct: 2.036, StdDev26Pct: 1.4543, StdDev52Pct: 1.661 | Volume Ratio: 2.239, StdDev9Pct: 1.0361, StdDev12Pct: 1.548, StdDev26Pct: 1.4268, StdDev52Pct: 2.1747 |
+| 52 | Buy | 104582.28 | 16/12/2024 01:00 | 102817.82 | 18/12/2024 17:00 | $12.98 | Volume Ratio: 2.249, StdDev9Pct: 1.1211, StdDev12Pct: 1.0527, StdDev26Pct: 1.2273, StdDev52Pct: 1.9412 | Volume Ratio: 1.929, StdDev9Pct: 1.2171, StdDev12Pct: 1.2078, StdDev26Pct: 1.8287, StdDev52Pct: 2.9629 |
+| 53 | Sell | 92130.21 | 30/12/2024 13:00 | 95412 | 31/12/2024 13:00 | $27.29 | Volume Ratio: 3.296, StdDev9Pct: 0.9437, StdDev12Pct: 0.9956, StdDev26Pct: 1.0968, StdDev52Pct: 1.8714 | Volume Ratio: 1.89, StdDev9Pct: 1.0483, StdDev12Pct: 0.9104, StdDev26Pct: 1.059, StdDev52Pct: 1.9265 |
+| 54 | Buy | 102147.95 | 06/01/2025 13:00 | 94244.02 | 09/01/2025 13:00 | $58.76 | Volume Ratio: 3.662, StdDev9Pct: 1.2458, StdDev12Pct: 1.1205, StdDev26Pct: 1.1143, StdDev52Pct: 2.1736 | Volume Ratio: 2.131, StdDev9Pct: 0.8737, StdDev12Pct: 1.2457, StdDev26Pct: 3, StdDev52Pct: 2.5052 |
+| 55 | Sell | 93730.92 | 10/01/2025 13:00 | 95327.06 | 10/01/2025 17:00 | $12.68 | Volume Ratio: 2.37, StdDev9Pct: 0.9757, StdDev12Pct: 0.9606, StdDev26Pct: 3.4742, StdDev52Pct: 2.6306 | Volume Ratio: 1.47, StdDev9Pct: 1.0991, StdDev12Pct: 1.0378, StdDev26Pct: 3.3744, StdDev52Pct: 2.5816 |
+| 56 | Sell | 94104.14 | 18/02/2025 17:00 | 95687.71 | 19/02/2025 05:00 | $12.58 | Volume Ratio: 3.05, StdDev9Pct: 0.5989, StdDev12Pct: 0.5842, StdDev26Pct: 1.0171, StdDev52Pct: 0.9827 | Volume Ratio: 1.482, StdDev9Pct: 0.566, StdDev12Pct: 0.5138, StdDev26Pct: 0.9777, StdDev52Pct: 0.9748 |
